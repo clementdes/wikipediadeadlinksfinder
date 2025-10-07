@@ -1,0 +1,3030 @@
+{
+  "pob.peeters-leuven.be": {
+    "domain": "pob.peeters-leuven.be",
+    "status": "Potentially available",
+    "details": {
+      "whois": "{\n  \"domain_name\": \"peeters-leuven.be\",\n  \"status\": \"NOT AVAILABLE\",\n  \"name\": \"Gandi Sas\",\n  \"org\": \"Gandi SAS\",\n  \"phone\": \"+33.170377661\",\n  \"fax\": null,\n  \"email\": null,\n  \"creation_date\": \"1995-10-03 00:00:00\",\n  \"name_servers\": null\n}"
+    },
+    "found_on": "2025-04-27T00:36:07.669530",
+    "sources": [
+      {
+        "url": "http://pob.peeters-leuven.be/content.php",
+        "text": "\"International Philosophical Bibliography\"",
+        "article_title": "List of academic databases and search engines",
+        "article_url": "https://en.wikipedia.org/wiki/List_of_academic_databases_and_search_engines"
+      }
+    ]
+  },
+  "www3.unifr.ch": {
+    "domain": "www3.unifr.ch",
+    "status": "Potentially available",
+    "details": {
+      "whois": "{\n  \"domain_name\": null,\n  \"registrant_name\": null,\n  \"registrant_address\": null,\n  \"registrar\": null,\n  \"creation_date\": null,\n  \"dnssec\": null,\n  \"tech-c\": null,\n  \"name_servers\": null\n}"
+    },
+    "found_on": "2025-04-27T00:36:41.877627",
+    "sources": [
+      {
+        "url": "https://www3.unifr.ch/inf/en/",
+        "text": "\"Department of Informatics\"",
+        "article_title": "Metasearch engine",
+        "article_url": "https://en.wikipedia.org/wiki/Metasearch_engine"
+      }
+    ]
+  },
+  "digital-fraction.com": {
+    "domain": "digital-fraction.com",
+    "status": "No DNS record found",
+    "details": {},
+    "found_on": "2025-04-27T00:37:26.327860",
+    "sources": [
+      {
+        "url": "http://www.digital-fraction.com/yahoo-shortcuts/",
+        "text": "the original",
+        "article_title": "Yahoo Search",
+        "article_url": "https://en.wikipedia.org/wiki/Yahoo_Search"
+      }
+    ]
+  },
+  "labs.goo.ne.jp": {
+    "domain": "labs.goo.ne.jp",
+    "status": "Potentially available",
+    "details": {
+      "whois": "{\n  \"domain_name\": \"GOO.NE.JP\",\n  \"registrant_org\": null,\n  \"organization_type\": \"Network Service\",\n  \"creation_date\": null,\n  \"technical_contact_name\": \"AG3600JP\",\n  \"administrative_contact_name\": \"AY30573JP\",\n  \"administrative_contact_email\": null,\n  \"administrative_contact_phone\": null,\n  \"administrative_contact_fax\": null,\n  \"administrative_contact_post_code\": null,\n  \"administrative_contact_postal_address\": null,\n  \"expiration_date\": null,\n  \"name_servers\": [\n    \"ns1.goo.ne.jp\",\n    \"ns2.goo.ne.jp\",\n    \"ns.intervia.ad.jp\",\n    \"ns.via.or.jp\"\n  ],\n  \"updated_date\": \"2024/12/05 16:45:00 (JST)\",\n  \"signing_key\": null,\n  \"status\": \"Connected (2025/06/30)\"\n}"
+    },
+    "found_on": "2025-04-27T00:37:47.183642",
+    "sources": [
+      {
+        "url": "http://labs.goo.ne.jp/",
+        "text": "goo labs page",
+        "article_title": "Goo (search engine)",
+        "article_url": "https://en.wikipedia.org/wiki/Goo_(search_engine)"
+      }
+    ]
+  },
+  "megutan.goo.ne.jp": {
+    "domain": "megutan.goo.ne.jp",
+    "status": "Potentially available",
+    "details": {
+      "whois": "{\n  \"domain_name\": \"GOO.NE.JP\",\n  \"registrant_org\": null,\n  \"organization_type\": \"Network Service\",\n  \"creation_date\": null,\n  \"technical_contact_name\": \"AG3600JP\",\n  \"administrative_contact_name\": \"AY30573JP\",\n  \"administrative_contact_email\": null,\n  \"administrative_contact_phone\": null,\n  \"administrative_contact_fax\": null,\n  \"administrative_contact_post_code\": null,\n  \"administrative_contact_postal_address\": null,\n  \"expiration_date\": null,\n  \"name_servers\": [\n    \"ns1.goo.ne.jp\",\n    \"ns2.goo.ne.jp\",\n    \"ns.intervia.ad.jp\",\n    \"ns.via.or.jp\"\n  ],\n  \"updated_date\": \"2024/12/05 16:45:00 (JST)\",\n  \"signing_key\": null,\n  \"status\": \"Connected (2025/06/30)\"\n}"
+    },
+    "found_on": "2025-04-27T00:37:49.571237",
+    "sources": [
+      {
+        "url": "https://megutan.goo.ne.jp/",
+        "text": "\"\u30e1\u30b0\u305f\u3093 by goo\"",
+        "article_title": "Goo (search engine)",
+        "article_url": "https://en.wikipedia.org/wiki/Goo_(search_engine)"
+      }
+    ]
+  },
+  "iicm.tugraz.at": {
+    "domain": "iicm.tugraz.at",
+    "status": "Potentially available",
+    "details": {
+      "whois": "{\n  \"domain_name\": \"tugraz.at\",\n  \"registrar\": null,\n  \"name_servers\": [\n    \"ns1.tu-graz.ac.at\",\n    \"ns2.tu-graz.ac.at\",\n    \"ns5.univie.ac.at\"\n  ],\n  \"name\": null,\n  \"org\": null,\n  \"address\": null,\n  \"registrant_postal_code\": null,\n  \"city\": null,\n  \"country\": null,\n  \"phone\": null,\n  \"fax\": null,\n  \"updated_date\": \"2006-07-04 09:30:59\",\n  \"email\": null\n}"
+    },
+    "found_on": "2025-04-27T00:40:03.390694",
+    "sources": [
+      {
+        "url": "http://www.iicm.tugraz.at/iicm_papers/dangers_google.pdf",
+        "text": "the original",
+        "article_title": "Google Search",
+        "article_url": "https://en.wikipedia.org/wiki/Google_Search"
+      },
+      {
+        "url": "http://www.iicm.tugraz.at/iicm_papers/dangers_google.pdf",
+        "text": "Report on dangers and opportunities posed by large search engines, particularly Google",
+        "article_title": "Criticism of Google",
+        "article_url": "https://en.wikipedia.org/wiki/Criticism_of_Google"
+      },
+      {
+        "url": "http://www.iicm.tugraz.at/Ressourcen/Papers/dangers_google.pdf",
+        "text": "187-page study from Graz University, Austria",
+        "article_title": "PageRank",
+        "article_url": "https://en.wikipedia.org/wiki/PageRank"
+      }
+    ]
+  },
+  "echo.msk.ru": {
+    "domain": "echo.msk.ru",
+    "status": "No DNS record found",
+    "details": {},
+    "found_on": "2025-04-27T00:40:50.316507",
+    "sources": [
+      {
+        "url": "https://echo.msk.ru/programs/tochka/1008486-echo/",
+        "text": "\"Interview / Yandex took the 4th place among global search engines. Russia entered the TOP-5 on venture financing. Nikita Belykh became the most readable governor on the Internet / Mikhail Gurevich, Grigory Bakunov\"",
+        "article_title": "Yandex Search",
+        "article_url": "https://en.wikipedia.org/wiki/Yandex_Search"
+      }
+    ]
+  },
+  "duckduckgo.comor": {
+    "domain": "duckduckgo.comor",
+    "status": "Potentially available",
+    "details": {
+      "whois": "{\n  \"domain_name\": null,\n  \"registrar\": null,\n  \"registrar_url\": null,\n  \"reseller\": null,\n  \"whois_server\": null,\n  \"referral_url\": null,\n  \"updated_date\": null,\n  \"creation_date\": null,\n  \"expiration_date\": null,\n  \"name_servers\": null,\n  \"status\": null,\n  \"emails\": null,\n  \"dnssec\": null,\n  \"name\": null,\n  \"org\": null,\n  \"address\": null,\n  \"city\": null,\n  \"state\": null,\n  \"registrant_postal_code\": null,\n  \"country\": null\n}"
+    },
+    "found_on": "2025-04-27T00:41:10.850313",
+    "sources": [
+      {
+        "url": "http://www.duckduckgo.comor",
+        "text": "http://www.duckduckgo.comor",
+        "article_title": "Search engine privacy",
+        "article_url": "https://en.wikipedia.org/wiki/Search_engine_privacy"
+      }
+    ]
+  },
+  "cindoc.csic.es": {
+    "domain": "cindoc.csic.es",
+    "status": "Potentially available",
+    "details": {
+      "whois": "{\n  \"domain_name\": null,\n  \"registrar\": null,\n  \"registrar_url\": null,\n  \"reseller\": null,\n  \"whois_server\": null,\n  \"referral_url\": null,\n  \"updated_date\": null,\n  \"creation_date\": null,\n  \"expiration_date\": null,\n  \"name_servers\": null,\n  \"status\": null,\n  \"emails\": null,\n  \"dnssec\": null,\n  \"name\": null,\n  \"org\": null,\n  \"address\": null,\n  \"city\": null,\n  \"state\": null,\n  \"registrant_postal_code\": null,\n  \"country\": null\n}"
+    },
+    "found_on": "2025-04-27T00:41:28.551596",
+    "sources": [
+      {
+        "url": "http://www.cindoc.csic.es/cybermetrics/pdf/68.pdf",
+        "text": "the original",
+        "article_title": "Web crawler",
+        "article_url": "https://en.wikipedia.org/wiki/Web_crawler"
+      }
+    ]
+  },
+  "km.aifb.uni-karlsruhe.de": {
+    "domain": "km.aifb.uni-karlsruhe.de",
+    "status": "Potentially available",
+    "details": {
+      "whois": "{\n  \"domain_name\": \"uni-karlsruhe.de\",\n  \"status\": \"connect\",\n  \"updated_date\": \"2024-11-06 17:59:32+01:00\",\n  \"name\": null,\n  \"org\": null,\n  \"address\": null,\n  \"registrant_postal_code\": null,\n  \"city\": null,\n  \"country_code\": null,\n  \"phone\": null,\n  \"fax\": null,\n  \"name_servers\": [\n    \"ns-p-1.kit-dns.eu\",\n    \"ns-p-2.kit-dns.de\",\n    \"ns-p-3.kit-dns.net\"\n  ],\n  \"emails\": null\n}"
+    },
+    "found_on": "2025-04-27T00:46:12.644684",
+    "sources": [
+      {
+        "url": "http://km.aifb.uni-karlsruhe.de/ws/semsearch08",
+        "text": "Semantic Search 2008 Workshop at ESWC'08",
+        "article_title": "Semantic search",
+        "article_url": "https://en.wikipedia.org/wiki/Semantic_search"
+      }
+    ]
+  },
+  "ub.uni-dortmund.de": {
+    "domain": "ub.uni-dortmund.de",
+    "status": "Potentially available",
+    "details": {
+      "whois": "{\n  \"domain_name\": \"uni-dortmund.de\",\n  \"status\": \"connect\",\n  \"updated_date\": \"2021-12-13 11:29:43+01:00\",\n  \"name\": null,\n  \"org\": null,\n  \"address\": null,\n  \"registrant_postal_code\": null,\n  \"city\": null,\n  \"country_code\": null,\n  \"phone\": null,\n  \"fax\": null,\n  \"name_servers\": [\n    \"dns-3.dfn.de\",\n    \"ns1.itmc.tu-dortmund.de\",\n    \"ns2.itmc.tu-dortmund.de\",\n    \"secondary.rrze.uni-erlangen.de\"\n  ],\n  \"emails\": null\n}"
+    },
+    "found_on": "2025-04-27T00:47:23.764222",
+    "sources": [
+      {
+        "url": "http://www.ub.uni-dortmund.de/listen/inetbib/msg44882.html",
+        "text": "the original",
+        "article_title": "BASE (search engine)",
+        "article_url": "https://en.wikipedia.org/wiki/BASE_(search_engine)"
+      }
+    ]
+  },
+  "chinamerica.asia": {
+    "domain": "chinamerica.asia",
+    "status": "Potentially available",
+    "details": {
+      "whois": "{\n  \"domain_name\": null,\n  \"registrar\": null,\n  \"registrar_url\": null,\n  \"reseller\": null,\n  \"whois_server\": null,\n  \"referral_url\": null,\n  \"updated_date\": null,\n  \"creation_date\": null,\n  \"expiration_date\": null,\n  \"name_servers\": null,\n  \"status\": null,\n  \"emails\": null,\n  \"dnssec\": null,\n  \"name\": null,\n  \"org\": null,\n  \"address\": null,\n  \"city\": null,\n  \"state\": null,\n  \"registrant_postal_code\": null,\n  \"country\": null\n}"
+    },
+    "found_on": "2025-04-27T00:48:39.174323",
+    "sources": [
+      {
+        "url": "http://chinamerica.asia/google-china/",
+        "text": "Chinameriica.asia",
+        "article_title": "Google China",
+        "article_url": "https://en.wikipedia.org/wiki/Google_China"
+      }
+    ]
+  },
+  "killedby.tech": {
+    "domain": "killedby.tech",
+    "status": "Expired",
+    "details": {
+      "expiration_date": "2025-03-29 23:59:59",
+      "registrar": "Ascio Technologies Inc. Danmark - filial af Ascio Technologies Inc. USA"
+    },
+    "found_on": "2025-04-27T00:50:28.965266",
+    "sources": [
+      {
+        "url": "https://killedby.tech/google/glass-os/",
+        "text": "\"Glass OS was a product killed by Google in 2017\"",
+        "article_title": "List of Google products",
+        "article_url": "https://en.wikipedia.org/wiki/List_of_Google_products"
+      }
+    ]
+  },
+  "svn.swlabs.org": {
+    "domain": "svn.swlabs.org",
+    "status": "No DNS record found",
+    "details": {},
+    "found_on": "2025-04-27T00:50:56.308910",
+    "sources": [
+      {
+        "url": "http://svn.swlabs.org/foowi/",
+        "text": "the original",
+        "article_title": "Wikia Search",
+        "article_url": "https://en.wikipedia.org/wiki/Wikia_Search"
+      }
+    ]
+  },
+  "not-quite-ready-yet.index.swlabs.org": {
+    "domain": "not-quite-ready-yet.index.swlabs.org",
+    "status": "No DNS record found",
+    "details": {},
+    "found_on": "2025-04-27T00:50:57.167162",
+    "sources": [
+      {
+        "url": "http://not-quite-ready-yet.index.swlabs.org/",
+        "text": "the original",
+        "article_title": "Wikia Search",
+        "article_url": "https://en.wikipedia.org/wiki/Wikia_Search"
+      }
+    ]
+  },
+  "swlabs.org": {
+    "domain": "swlabs.org",
+    "status": "No DNS record found",
+    "details": {},
+    "found_on": "2025-04-27T00:50:57.942329",
+    "sources": [
+      {
+        "url": "http://swlabs.org/",
+        "text": "the original",
+        "article_title": "Wikia Search",
+        "article_url": "https://en.wikipedia.org/wiki/Wikia_Search"
+      }
+    ]
+  },
+  "sooo.so": {
+    "domain": "sooo.so",
+    "status": "Potentially available",
+    "details": {
+      "whois": "{\n  \"domain_name\": \"sooo.so\",\n  \"registrar\": null,\n  \"registrar_url\": null,\n  \"reseller\": null,\n  \"whois_server\": null,\n  \"referral_url\": null,\n  \"updated_date\": null,\n  \"creation_date\": null,\n  \"expiration_date\": null,\n  \"name_servers\": null,\n  \"status\": null,\n  \"emails\": null,\n  \"dnssec\": null,\n  \"name\": null,\n  \"org\": null,\n  \"address\": null,\n  \"city\": null,\n  \"state\": null,\n  \"registrant_postal_code\": null,\n  \"country\": null\n}"
+    },
+    "found_on": "2025-04-27T00:51:23.745958",
+    "sources": [
+      {
+        "url": "http://sooo.so",
+        "text": "sooo.so",
+        "article_title": "Soso (search engine)",
+        "article_url": "https://en.wikipedia.org/wiki/Soso_(search_engine)"
+      },
+      {
+        "url": "https://www.sooo.so",
+        "text": "Official webpage",
+        "article_title": "Soso (search engine)",
+        "article_url": "https://en.wikipedia.org/wiki/Soso_(search_engine)"
+      }
+    ]
+  },
+  "alumni.tu-berlin.de": {
+    "domain": "alumni.tu-berlin.de",
+    "status": "Potentially available",
+    "details": {
+      "whois": "{\n  \"domain_name\": \"tu-berlin.de\",\n  \"status\": \"connect\",\n  \"updated_date\": \"2016-11-22 17:04:02+01:00\",\n  \"name\": null,\n  \"org\": null,\n  \"address\": null,\n  \"registrant_postal_code\": null,\n  \"city\": null,\n  \"country_code\": null,\n  \"phone\": null,\n  \"fax\": null,\n  \"name_servers\": [\n    \"dns-2.dfn.de\",\n    \"dns-3.dfn.de\",\n    \"ns.tu-berlin.de 130.149.7.7 2001:638:809:7:0:0:0:7\"\n  ],\n  \"emails\": null\n}"
+    },
+    "found_on": "2025-04-27T00:51:46.618574",
+    "sources": [
+      {
+        "url": "https://www.alumni.tu-berlin.de/angebote/gruender/gruendergalerie/gruenderprofile/neofonie00/",
+        "text": "the original",
+        "article_title": "Fireball (search engine)",
+        "article_url": "https://en.wikipedia.org/wiki/Fireball_(search_engine)"
+      }
+    ]
+  },
+  "metager.de": {
+    "domain": "metager.de",
+    "status": "Potentially available",
+    "details": {
+      "whois": "{\n  \"domain_name\": \"metager.de\",\n  \"status\": \"connect\",\n  \"updated_date\": \"2023-10-30 18:51:02+01:00\",\n  \"name\": null,\n  \"org\": null,\n  \"address\": null,\n  \"registrant_postal_code\": null,\n  \"city\": null,\n  \"country_code\": null,\n  \"phone\": null,\n  \"fax\": null,\n  \"name_servers\": [\n    \"ns2.inwx.de\",\n    \"ns3.inwx.eu\",\n    \"ns.inwx.de\"\n  ],\n  \"emails\": null\n}"
+    },
+    "found_on": "2025-04-27T00:51:47.155717",
+    "sources": [
+      {
+        "url": "https://metager.de/klassik/dstag2010/markt3.html",
+        "text": "\"Marktanteile\"",
+        "article_title": "Fireball (search engine)",
+        "article_url": "https://en.wikipedia.org/wiki/Fireball_(search_engine)"
+      }
+    ]
+  },
+  "fireball.de": {
+    "domain": "fireball.de",
+    "status": "Potentially available",
+    "details": {
+      "whois": "{\n  \"domain_name\": \"fireball.de\",\n  \"status\": \"connect\",\n  \"updated_date\": \"2021-11-04 14:41:16+01:00\",\n  \"name\": null,\n  \"org\": null,\n  \"address\": null,\n  \"registrant_postal_code\": null,\n  \"city\": null,\n  \"country_code\": null,\n  \"phone\": null,\n  \"fax\": null,\n  \"name_servers\": [\n    \"danica.ns.cloudflare.com\",\n    \"edward.ns.cloudflare.com\"\n  ],\n  \"emails\": null\n}"
+    },
+    "found_on": "2025-04-27T00:51:47.622396",
+    "sources": [
+      {
+        "url": "https://fireball.de",
+        "text": "fireball.de",
+        "article_title": "Fireball (search engine)",
+        "article_url": "https://en.wikipedia.org/wiki/Fireball_(search_engine)"
+      }
+    ]
+  },
+  "web.ec.tuwien.ac.at": {
+    "domain": "web.ec.tuwien.ac.at",
+    "status": "Potentially available",
+    "details": {
+      "whois": "{\n  \"domain_name\": \"tuwien.ac.at\",\n  \"registrar\": null,\n  \"name_servers\": [\n    \"ns10.univie.ac.at\",\n    \"ns5.univie.ac.at\",\n    \"tunamec.tuwien.ac.at\",\n    \"tunamed.tuwien.ac.at\"\n  ],\n  \"name\": [\n    \"Andreas Blaha\",\n    \"Johann Kainrath\"\n  ],\n  \"org\": \"Technische Universitaet Wien - ZID\",\n  \"address\": [\n    \"Operngasse 11/020\",\n    \"Operngasse 11\"\n  ],\n  \"registrant_postal_code\": [\n    \"1040\",\n    \"A-1040\"\n  ],\n  \"city\": \"Wien\",\n  \"country\": \"Austria\",\n  \"phone\": [\n    \"+4315880142001\",\n    \"+4315880142057\",\n    \"+4315880142045\"\n  ],\n  \"fax\": \"+4315880142099\",\n  \"updated_date\": [\n    \"2020-03-03 11:58:52\",\n    \"2018-11-27 11:33:41\",\n    \"2020-03-03 11:28:25\",\n    \"2020-03-03 11:28:57\"\n  ],\n  \"email\": [\n    \"hostmaster@noc.tuwien.ac.at\",\n    \"andreas.blaha@tuwien.ac.at\",\n    \"johann.kainrath@tuwien.ac.at\"\n  ]\n}"
+    },
+    "found_on": "2025-04-27T00:55:02.639042",
+    "sources": [
+      {
+        "url": "https://web.ec.tuwien.ac.at/webtour21/wp-content/uploads/2021/03/shifferer.pdf",
+        "text": "the original",
+        "article_title": "Recommender system",
+        "article_url": "https://en.wikipedia.org/wiki/Recommender_system"
+      }
+    ]
+  },
+  "ir.ii.uam.es": {
+    "domain": "ir.ii.uam.es",
+    "status": "Potentially available",
+    "details": {
+      "whois": "{\n  \"domain_name\": null,\n  \"registrar\": null,\n  \"registrar_url\": null,\n  \"reseller\": null,\n  \"whois_server\": null,\n  \"referral_url\": null,\n  \"updated_date\": null,\n  \"creation_date\": null,\n  \"expiration_date\": null,\n  \"name_servers\": null,\n  \"status\": null,\n  \"emails\": null,\n  \"dnssec\": null,\n  \"name\": null,\n  \"org\": null,\n  \"address\": null,\n  \"city\": null,\n  \"state\": null,\n  \"registrant_postal_code\": null,\n  \"country\": null\n}"
+    },
+    "found_on": "2025-04-27T00:55:16.328295",
+    "sources": [
+      {
+        "url": "http://ir.ii.uam.es/pubs/irj2020.pdf",
+        "text": "\"Offline Evaluation Options for Recommender Systems\"",
+        "article_title": "Recommender system",
+        "article_url": "https://en.wikipedia.org/wiki/Recommender_system"
+      },
+      {
+        "url": "http://ir.ii.uam.es/pubs/sigir2018.pdf",
+        "text": "the original",
+        "article_title": "Recommender system",
+        "article_url": "https://en.wikipedia.org/wiki/Recommender_system"
+      }
+    ]
+  },
+  "Aleph%20Open%20Search": {
+    "domain": "Aleph%20Open%20Search",
+    "status": "Potentially available",
+    "details": {
+      "whois": "{\n  \"domain_name\": null,\n  \"registrar\": null,\n  \"registrar_url\": null,\n  \"reseller\": null,\n  \"whois_server\": null,\n  \"referral_url\": null,\n  \"updated_date\": null,\n  \"creation_date\": null,\n  \"expiration_date\": null,\n  \"name_servers\": null,\n  \"status\": null,\n  \"emails\": null,\n  \"dnssec\": null,\n  \"name\": null,\n  \"org\": null,\n  \"address\": null,\n  \"city\": null,\n  \"state\": null,\n  \"registrant_postal_code\": null,\n  \"country\": null\n}"
+    },
+    "found_on": "2025-04-27T00:55:35.664144",
+    "sources": [
+      {
+        "url": "http://Aleph%20Open%20Search",
+        "text": "Aleph Open Search",
+        "article_title": "Deep web",
+        "article_url": "https://en.wikipedia.org/wiki/Deep_web"
+      }
+    ]
+  },
+  "testbericht.de": {
+    "domain": "testbericht.de",
+    "status": "Potentially available",
+    "details": {
+      "whois": "{\n  \"domain_name\": \"testbericht.de\",\n  \"status\": \"connect\",\n  \"updated_date\": \"2024-02-01 09:17:46+01:00\",\n  \"name\": null,\n  \"org\": null,\n  \"address\": null,\n  \"registrant_postal_code\": null,\n  \"city\": null,\n  \"country_code\": null,\n  \"phone\": null,\n  \"fax\": null,\n  \"name_servers\": [\n    \"dolly.ns.cloudflare.com\",\n    \"lakas.ns.cloudflare.com\"\n  ],\n  \"emails\": null\n}"
+    },
+    "found_on": "2025-04-27T00:56:13.723351",
+    "sources": [
+      {
+        "url": "https://www.testbericht.de/presse/fake-testseiten",
+        "text": "\"Fake-Testseiten\"",
+        "article_title": "Comparison shopping website",
+        "article_url": "https://en.wikipedia.org/wiki/Comparison_shopping_website"
+      }
+    ]
+  },
+  "kritzelblog.de": {
+    "domain": "kritzelblog.de",
+    "status": "Potentially available",
+    "details": {
+      "whois": "{\n  \"domain_name\": \"kritzelblog.de\",\n  \"status\": \"connect\",\n  \"updated_date\": \"2019-02-20 06:59:08+01:00\",\n  \"name\": null,\n  \"org\": null,\n  \"address\": null,\n  \"registrant_postal_code\": null,\n  \"city\": null,\n  \"country_code\": null,\n  \"phone\": null,\n  \"fax\": null,\n  \"name_servers\": [\n    \"ns5.kasserver.com\",\n    \"ns6.kasserver.com\"\n  ],\n  \"emails\": null\n}"
+    },
+    "found_on": "2025-04-27T00:56:14.137754",
+    "sources": [
+      {
+        "url": "https://www.kritzelblog.de/nischenseitenchallenge/fakefritz-abmahnungen-bei-fake-test-seiten/",
+        "text": "the original",
+        "article_title": "Comparison shopping website",
+        "article_url": "https://en.wikipedia.org/wiki/Comparison_shopping_website"
+      }
+    ]
+  },
+  "backrub.c63.be": {
+    "domain": "backrub.c63.be",
+    "status": "Potentially available",
+    "details": {
+      "whois": "{\n  \"domain_name\": \"c63.be\",\n  \"status\": \"NOT AVAILABLE\",\n  \"name\": \"Registrar.eu\",\n  \"org\": null,\n  \"phone\": null,\n  \"fax\": null,\n  \"email\": null,\n  \"creation_date\": \"2021-05-11 00:00:00\",\n  \"name_servers\": \"ns1.mijn.host\\r\\n\\tns2.mijn.host\\r\\n\\tns3.mijn.host\"\n}"
+    },
+    "found_on": "2025-04-27T00:57:09.100994",
+    "sources": [
+      {
+        "url": "http://backrub.c63.be/1997/backrub.htm",
+        "text": "Downloaded 11 \u2013 February 2009",
+        "article_title": "Sergey Brin",
+        "article_url": "https://en.wikipedia.org/wiki/Sergey_Brin"
+      },
+      {
+        "url": "http://backrub.c63.be/1997/backrub.htm",
+        "text": "Downloaded 11 \u2013 February 2009",
+        "article_title": "Larry Page",
+        "article_url": "https://en.wikipedia.org/wiki/Larry_Page"
+      }
+    ]
+  },
+  "datos.bne.es": {
+    "domain": "datos.bne.es",
+    "status": "Potentially available",
+    "details": {
+      "whois": "{\n  \"domain_name\": null,\n  \"registrar\": null,\n  \"registrar_url\": null,\n  \"reseller\": null,\n  \"whois_server\": null,\n  \"referral_url\": null,\n  \"updated_date\": null,\n  \"creation_date\": null,\n  \"expiration_date\": null,\n  \"name_servers\": null,\n  \"status\": null,\n  \"emails\": null,\n  \"dnssec\": null,\n  \"name\": null,\n  \"org\": null,\n  \"address\": null,\n  \"city\": null,\n  \"state\": null,\n  \"registrant_postal_code\": null,\n  \"country\": null\n}"
+    },
+    "found_on": "2025-04-27T00:57:17.544166",
+    "sources": [
+      {
+        "url": "https://datos.bne.es/resource/XX4902579",
+        "text": "Spain",
+        "article_title": "Sergey Brin",
+        "article_url": "https://en.wikipedia.org/wiki/Sergey_Brin"
+      },
+      {
+        "url": "https://datos.bne.es/resource/XX524917",
+        "text": "Spain",
+        "article_title": "Library",
+        "article_url": "https://en.wikipedia.org/wiki/Library"
+      },
+      {
+        "url": "https://datos.bne.es/resource/XX4576804",
+        "text": "Spain",
+        "article_title": "World Wide Web",
+        "article_url": "https://en.wikipedia.org/wiki/World_Wide_Web"
+      },
+      {
+        "url": "https://datos.bne.es/resource/XX545901",
+        "text": "Spain",
+        "article_title": "Web browser",
+        "article_url": "https://en.wikipedia.org/wiki/Web_browser"
+      },
+      {
+        "url": "https://datos.bne.es/resource/XX875493",
+        "text": "Spain",
+        "article_title": "George Young (rock musician)",
+        "article_url": "https://en.wikipedia.org/wiki/George_Young_(rock_musician)"
+      },
+      {
+        "url": "https://datos.bne.es/resource/XX4659822",
+        "text": "Spain",
+        "article_title": "Artificial intelligence",
+        "article_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+      },
+      {
+        "url": "https://datos.bne.es/resource/XX667435",
+        "text": "Spain",
+        "article_title": "Geographic information system",
+        "article_url": "https://en.wikipedia.org/wiki/Geographic_information_system"
+      },
+      {
+        "url": "https://datos.bne.es/resource/XX5123734",
+        "text": "Spain",
+        "article_title": "Product placement",
+        "article_url": "https://en.wikipedia.org/wiki/Product_placement"
+      },
+      {
+        "url": "https://datos.bne.es/resource/XX1141757",
+        "text": "Spain",
+        "article_title": "Philip Kotler",
+        "article_url": "https://en.wikipedia.org/wiki/Philip_Kotler"
+      }
+    ]
+  },
+  "library.ceu.hu": {
+    "domain": "library.ceu.hu",
+    "status": "Potentially available",
+    "details": {
+      "whois": "{\n  \"domain_name\": null,\n  \"registrar\": null,\n  \"registrar_url\": null,\n  \"reseller\": null,\n  \"whois_server\": null,\n  \"referral_url\": null,\n  \"updated_date\": null,\n  \"creation_date\": null,\n  \"expiration_date\": null,\n  \"name_servers\": null,\n  \"status\": null,\n  \"emails\": null,\n  \"dnssec\": null,\n  \"name\": null,\n  \"org\": null,\n  \"address\": null,\n  \"city\": null,\n  \"state\": null,\n  \"registrant_postal_code\": null,\n  \"country\": null\n}"
+    },
+    "found_on": "2025-04-27T00:57:47.838666",
+    "sources": [
+      {
+        "url": "http://www.library.ceu.hu/collections/mml.html",
+        "text": "the original",
+        "article_title": "Library",
+        "article_url": "https://en.wikipedia.org/wiki/Library"
+      }
+    ]
+  },
+  "pla.org.pk": {
+    "domain": "pla.org.pk",
+    "status": "Potentially available",
+    "details": {
+      "whois": "{\n  \"domain_name\": null,\n  \"registrar\": null,\n  \"registrar_url\": null,\n  \"reseller\": null,\n  \"whois_server\": null,\n  \"referral_url\": null,\n  \"updated_date\": null,\n  \"creation_date\": null,\n  \"expiration_date\": null,\n  \"name_servers\": null,\n  \"status\": \"Not Registered, and may be available if valid\",\n  \"emails\": null,\n  \"dnssec\": null,\n  \"name\": null,\n  \"org\": null,\n  \"address\": null,\n  \"city\": null,\n  \"state\": null,\n  \"registrant_postal_code\": null,\n  \"country\": null\n}"
+    },
+    "found_on": "2025-04-27T00:57:49.088794",
+    "sources": [
+      {
+        "url": "https://www.pla.org.pk",
+        "text": "\"Pakistan Library Association\"",
+        "article_title": "Library",
+        "article_url": "https://en.wikipedia.org/wiki/Library"
+      }
+    ]
+  },
+  "sifonia.com": {
+    "domain": "sifonia.com",
+    "status": "Expired",
+    "details": {
+      "expiration_date": "2025-02-22 07:59:07",
+      "registrar": "Cosmotown, Inc."
+    },
+    "found_on": "2025-04-27T00:57:52.525004",
+    "sources": [
+      {
+        "url": "https://sifonia.com/the-concept-of-library-definition-of-library/",
+        "text": "The Concept of Library: Definition of Library",
+        "article_title": "Library",
+        "article_url": "https://en.wikipedia.org/wiki/Library"
+      }
+    ]
+  },
+  "id.bnportugal.gov.pt": {
+    "domain": "id.bnportugal.gov.pt",
+    "status": "Potentially available",
+    "details": {
+      "whois": "{\n  \"domain_name\": null,\n  \"creation_date\": null,\n  \"expiration_date\": null,\n  \"registrant_name\": null,\n  \"registrant_street\": null,\n  \"registrant_city\": null,\n  \"registrant_postal_code\": null,\n  \"registrant_email\": null,\n  \"admin\": null,\n  \"admin_street\": null,\n  \"admin_city\": null,\n  \"admin_postal_code\": null,\n  \"admin_email\": null,\n  \"name_servers\": null,\n  \"status\": null,\n  \"emails\": null\n}"
+    },
+    "found_on": "2025-04-27T00:58:04.474152",
+    "sources": [
+      {
+        "url": "http://id.bnportugal.gov.pt/aut/catbnp/9267",
+        "text": "Portugal",
+        "article_title": "Library",
+        "article_url": "https://en.wikipedia.org/wiki/Library"
+      },
+      {
+        "url": "http://id.bnportugal.gov.pt/aut/catbnp/1650484",
+        "text": "Portugal",
+        "article_title": "Larry Page",
+        "article_url": "https://en.wikipedia.org/wiki/Larry_Page"
+      }
+    ]
+  },
+  "research.hrc.utexas.edu:8080": {
+    "domain": "research.hrc.utexas.edu:8080",
+    "status": "Potentially available",
+    "details": {
+      "whois": "{\n  \"domain_name\": null,\n  \"registrar\": null,\n  \"registrar_url\": null,\n  \"reseller\": null,\n  \"whois_server\": null,\n  \"referral_url\": null,\n  \"updated_date\": null,\n  \"creation_date\": null,\n  \"expiration_date\": null,\n  \"name_servers\": null,\n  \"status\": null,\n  \"emails\": null,\n  \"dnssec\": null,\n  \"name\": null,\n  \"org\": null,\n  \"address\": null,\n  \"city\": null,\n  \"state\": null,\n  \"registrant_postal_code\": null,\n  \"country\": null\n}"
+    },
+    "found_on": "2025-04-27T00:58:06.113394",
+    "sources": [
+      {
+        "url": "https://research.hrc.utexas.edu:8080/hrcxtf/view?docId=ead/00247.xml",
+        "text": "the original",
+        "article_title": "Library",
+        "article_url": "https://en.wikipedia.org/wiki/Library"
+      }
+    ]
+  },
+  "president.gov.ua": {
+    "domain": "president.gov.ua",
+    "status": "Potentially available",
+    "details": {
+      "whois": "{\n  \"domain_name\": \"president.gov.ua\",\n  \"status\": \"OK-UNTIL 20250711204643\",\n  \"registrar\": null,\n  \"registrar_name\": null,\n  \"registrar_url\": null,\n  \"registrar_country\": null,\n  \"registrar_city\": null,\n  \"registrar_address\": null,\n  \"registrar_email\": null,\n  \"registrant_name\": null,\n  \"registrant_country\": null,\n  \"registrant_city\": null,\n  \"registrant_state\": null,\n  \"registrant_address\": null,\n  \"registrant_email\": null,\n  \"registrant_postal_code\": null,\n  \"registrant_phone\": null,\n  \"registrant_fax\": null,\n  \"admin\": null,\n  \"admin_country\": null,\n  \"admin_city\": null,\n  \"admin_state\": null,\n  \"admin_address\": null,\n  \"admin_email\": null,\n  \"admin_postal_code\": null,\n  \"admin_phone\": null,\n  \"admin_fax\": null,\n  \"updated_date\": null,\n  \"creation_date\": \"0-UANIC 00000000000000\",\n  \"expiration_date\": null,\n  \"name_servers\": [\n    \"a1-247.akam.net\",\n    \"a6-66.akam.net\",\n    \"a7-64.akam.net\",\n    \"a5-66.akam.net\",\n    \"a18-67.akam.net\",\n    \"a22-65.akam.net\"\n  ],\n  \"emails\": \"apu_admin@apu.gov.ua\"\n}"
+    },
+    "found_on": "2025-04-27T01:00:44.755028",
+    "sources": [
+      {
+        "url": "https://www.president.gov.ua/documents/1332017-21850",
+        "text": "\"\u0423\u043a\u0430\u0437 \u043f\u0440\u0435\u0437\u0438\u0434\u0435\u043d\u0442\u0430 \u0423\u043a\u0440\u0430\u0457\u043d\u0438 \u2116133/2017 \u2014 \u041e\u0444\u0456\u0446\u0456\u0439\u043d\u0435 \u0456\u043d\u0442\u0435\u0440\u043d\u0435\u0442-\u043f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043d\u0438\u0446\u0442\u0432\u043e \u041f\u0440\u0435\u0437\u0438\u0434\u0435\u043d\u0442\u0430 \u0423\u043a\u0440\u0430\u0457\u043d\u0438\"",
+        "article_title": "Yandex",
+        "article_url": "https://en.wikipedia.org/wiki/Yandex"
+      }
+    ]
+  },
+  "contentinspire.com": {
+    "domain": "contentinspire.com",
+    "status": "No DNS record found",
+    "details": {},
+    "found_on": "2025-04-27T01:01:21.812350",
+    "sources": [
+      {
+        "url": "http://contentinspire.com/25-blogs-to-take-your-marketing-skills-to-next-level/",
+        "text": "\"25 Blogs to Take Your Marketing Skills to Next Level\"",
+        "article_title": "Danny Sullivan (technologist)",
+        "article_url": "https://en.wikipedia.org/wiki/Danny_Sullivan_(technologist)"
+      }
+    ]
+  },
+  "stockwatch.com.cy": {
+    "domain": "stockwatch.com.cy",
+    "status": "Potentially available",
+    "details": {
+      "whois": "{\n  \"domain_name\": null,\n  \"registrar\": null,\n  \"registrar_url\": null,\n  \"reseller\": null,\n  \"whois_server\": null,\n  \"referral_url\": null,\n  \"updated_date\": null,\n  \"creation_date\": null,\n  \"expiration_date\": null,\n  \"name_servers\": null,\n  \"status\": null,\n  \"emails\": null,\n  \"dnssec\": null,\n  \"name\": null,\n  \"org\": null,\n  \"address\": null,\n  \"city\": null,\n  \"state\": null,\n  \"registrant_postal_code\": null,\n  \"country\": null\n}"
+    },
+    "found_on": "2025-04-27T01:02:10.597721",
+    "sources": [
+      {
+        "url": "https://www.stockwatch.com.cy/en/article/emporika-nea/give-job-ua-support-employment-ukrainian-refugees-around-world",
+        "text": "\"Give a Job for UA: Support the Employment of Ukrainian Refugees Around the World\"",
+        "article_title": "JOOBLE",
+        "article_url": "https://en.wikipedia.org/wiki/JOOBLE"
+      }
+    ]
+  },
+  "img-rummager.com": {
+    "domain": "img-rummager.com",
+    "status": "No DNS record found",
+    "details": {},
+    "found_on": "2025-04-27T01:04:22.526212",
+    "sources": [
+      {
+        "url": "http://www.img-rummager.com",
+        "text": "img(Rummager)",
+        "article_title": "List of CBIR engines",
+        "article_url": "https://en.wikipedia.org/wiki/List_of_CBIR_engines"
+      }
+    ]
+  },
+  "viral.image.ntua.gr": {
+    "domain": "viral.image.ntua.gr",
+    "status": "Potentially available",
+    "details": {
+      "whois": "{\n  \"domain_name\": null,\n  \"registrar\": null,\n  \"registrar_url\": null,\n  \"reseller\": null,\n  \"whois_server\": null,\n  \"referral_url\": null,\n  \"updated_date\": null,\n  \"creation_date\": null,\n  \"expiration_date\": null,\n  \"name_servers\": null,\n  \"status\": null,\n  \"emails\": null,\n  \"dnssec\": null,\n  \"name\": null,\n  \"org\": null,\n  \"address\": null,\n  \"city\": null,\n  \"state\": null,\n  \"registrant_postal_code\": null,\n  \"country\": null\n}"
+    },
+    "found_on": "2025-04-27T01:04:25.415378",
+    "sources": [
+      {
+        "url": "http://viral.image.ntua.gr/",
+        "text": "VIRaL",
+        "article_title": "List of CBIR engines",
+        "article_url": "https://en.wikipedia.org/wiki/List_of_CBIR_engines"
+      }
+    ]
+  },
+  "tideinteractivegroup.com": {
+    "domain": "tideinteractivegroup.com",
+    "status": "No DNS record found",
+    "details": {},
+    "found_on": "2025-04-27T01:05:57.946740",
+    "sources": [
+      {
+        "url": "http://www.tideinteractivegroup.com/google-algorithm-timeline.php",
+        "text": "\"Panda 4.0\"",
+        "article_title": "Timeline of Google Search",
+        "article_url": "https://en.wikipedia.org/wiki/Timeline_of_Google_Search"
+      }
+    ]
+  },
+  "cs-exhibitions.uni-klu.ac.at": {
+    "domain": "cs-exhibitions.uni-klu.ac.at",
+    "status": "Potentially available",
+    "details": {
+      "whois": "{\n  \"domain_name\": \"uni-klu.ac.at\",\n  \"registrar\": null,\n  \"name_servers\": [\n    \"ns1.aau.at\",\n    \"ns10.univie.ac.at\",\n    \"ns2.aau.at\",\n    \"ns5.univie.ac.at\"\n  ],\n  \"name\": null,\n  \"org\": \"Universitaet Klagenfurt\",\n  \"address\": \"Universitaetsstrasse 65-67\",\n  \"registrant_postal_code\": \"9020\",\n  \"city\": \"Klagenfurt\",\n  \"country\": \"Austria\",\n  \"phone\": \"+4346327009602\",\n  \"fax\": \"+434632700999602\",\n  \"updated_date\": [\n    \"2014-07-14 09:22:11\",\n    \"2014-01-20 10:22:50\"\n  ],\n  \"email\": \"domain-admin@uni-klu.ac.at\"\n}"
+    },
+    "found_on": "2025-04-27T01:06:11.004758",
+    "sources": [
+      {
+        "url": "http://cs-exhibitions.uni-klu.ac.at/index.php?id=222",
+        "text": "the original",
+        "article_title": "Information technology",
+        "article_url": "https://en.wikipedia.org/wiki/Information_technology"
+      }
+    ]
+  },
+  "tenyears-www.web.cern.ch": {
+    "domain": "tenyears-www.web.cern.ch",
+    "status": "Potentially available",
+    "details": {
+      "whois": "{\n  \"domain_name\": null,\n  \"registrant_name\": null,\n  \"registrant_address\": null,\n  \"registrar\": null,\n  \"creation_date\": null,\n  \"dnssec\": null,\n  \"tech-c\": null,\n  \"name_servers\": null\n}"
+    },
+    "found_on": "2025-04-27T01:07:39.125993",
+    "sources": [
+      {
+        "url": "http://tenyears-www.web.cern.ch/tenyears-www/Welcome.html",
+        "text": "\"Ten Years Public Domain for the Original Web Software\"",
+        "article_title": "World Wide Web",
+        "article_url": "https://en.wikipedia.org/wiki/World_Wide_Web"
+      }
+    ]
+  },
+  "taganode.com": {
+    "domain": "taganode.com",
+    "status": "No DNS record found",
+    "details": {},
+    "found_on": "2025-04-27T01:08:54.965882",
+    "sources": [
+      {
+        "url": "http://www.taganode.com",
+        "text": "Official site",
+        "article_title": "Taganode Local Search Engine",
+        "article_url": "https://en.wikipedia.org/wiki/Taganode_Local_Search_Engine"
+      }
+    ]
+  },
+  "torstatus.blutmagie.de": {
+    "domain": "torstatus.blutmagie.de",
+    "status": "Potentially available",
+    "details": {
+      "whois": "{\n  \"domain_name\": \"blutmagie.de\",\n  \"status\": \"connect\",\n  \"updated_date\": \"2015-06-23 14:06:04+02:00\",\n  \"name\": null,\n  \"org\": null,\n  \"address\": null,\n  \"registrant_postal_code\": null,\n  \"city\": null,\n  \"country_code\": null,\n  \"phone\": null,\n  \"fax\": null,\n  \"name_servers\": [\n    \"a.regfish-ns.net\",\n    \"b.regfish-ns.net\",\n    \"c.regfish-ns.net\"\n  ],\n  \"emails\": null\n}"
+    },
+    "found_on": "2025-04-27T01:10:18.809601",
+    "sources": [
+      {
+        "url": "http://torstatus.blutmagie.de/",
+        "text": "\"Tor Status\"",
+        "article_title": "Internet privacy",
+        "article_url": "https://en.wikipedia.org/wiki/Internet_privacy"
+      }
+    ]
+  },
+  "richardhartmann.de": {
+    "domain": "richardhartmann.de",
+    "status": "Potentially available",
+    "details": {
+      "whois": "{\n  \"domain_name\": \"richardhartmann.de\",\n  \"status\": \"connect\",\n  \"updated_date\": \"2016-04-25 13:10:08+02:00\",\n  \"name\": null,\n  \"org\": null,\n  \"address\": null,\n  \"registrant_postal_code\": null,\n  \"city\": null,\n  \"country_code\": null,\n  \"phone\": null,\n  \"fax\": null,\n  \"name_servers\": [\n    \"ns3.dns.space.net\",\n    \"ns4.dns.space.net\",\n    \"ns.space.net\"\n  ],\n  \"emails\": null\n}"
+    },
+    "found_on": "2025-04-27T01:11:27.706610",
+    "sources": [
+      {
+        "url": "http://richardhartmann.de/blog/posts/2015/08/24-Tor-enabled_Debian_mirror/",
+        "text": "the original",
+        "article_title": "List of Tor onion services",
+        "article_url": "https://en.wikipedia.org/wiki/List_of_Tor_onion_services"
+      }
+    ]
+  },
+  "demonoid.is": {
+    "domain": "demonoid.is",
+    "status": "Potentially available",
+    "details": {
+      "whois": "{\n  \"domain_name\": \"demonoid.is\",\n  \"registrant_name\": \"NGS7-IS\",\n  \"name\": null,\n  \"address\": [\n    \"Bulevardul Metalurgiei 132 B1C\",\n    \"RO-041837 Bucuresti\",\n    \"Piccadilly Business Centre\",\n    \"Unit C Aldow Enterprise Park\",\n    \"GB-M12 6AE Manchester\",\n    \"665 3rd Street, Suite 207\",\n    \"San Francisco, CA 94107\",\n    \"US\"\n  ],\n  \"creation_date\": [\n    \"2019-10-28 00:00:00\",\n    \"2024-12-03 00:00:00\",\n    \"2022-12-22 00:00:00\",\n    \"2012-01-19 00:00:00\"\n  ],\n  \"expiration_date\": \"2026-10-28 00:00:00\",\n  \"email\": [\n    \"whois@njal.la\",\n    \"tld-is@immateriali.sm\",\n    \"noc@cloudflare.com\"\n  ],\n  \"name_servers\": [\n    \"joyce.ns.cloudflare.com\",\n    \"reese.ns.cloudflare.com\"\n  ],\n  \"dnssec\": \"signed delegation\"\n}"
+    },
+    "found_on": "2025-04-27T01:11:34.872714",
+    "sources": [
+      {
+        "url": "https://www.demonoid.is/",
+        "text": "\"Demonoid\"",
+        "article_title": "List of Tor onion services",
+        "article_url": "https://en.wikipedia.org/wiki/List_of_Tor_onion_services"
+      }
+    ]
+  },
+  "bestofsmarthometech.com": {
+    "domain": "bestofsmarthometech.com",
+    "status": "No DNS record found",
+    "details": {},
+    "found_on": "2025-04-27T01:12:28.764601",
+    "sources": [
+      {
+        "url": "https://bestofsmarthometech.com/2017/12/05/10-crazy-google-easter-eggs-you-never-knew-existed/",
+        "text": "\"10 Crazy Google Easter Eggs You Never Knew Existed!\"",
+        "article_title": "List of Google Easter eggs",
+        "article_url": "https://en.wikipedia.org/wiki/List_of_Google_Easter_eggs"
+      }
+    ]
+  },
+  "dbis.ipd.uni-karlsruhe.de": {
+    "domain": "dbis.ipd.uni-karlsruhe.de",
+    "status": "Potentially available",
+    "details": {
+      "whois": "{\n  \"domain_name\": \"uni-karlsruhe.de\",\n  \"status\": \"connect\",\n  \"updated_date\": \"2024-11-06 17:59:32+01:00\",\n  \"name\": null,\n  \"org\": null,\n  \"address\": null,\n  \"registrant_postal_code\": null,\n  \"city\": null,\n  \"country_code\": null,\n  \"phone\": null,\n  \"fax\": null,\n  \"name_servers\": [\n    \"ns-p-1.kit-dns.eu\",\n    \"ns-p-2.kit-dns.de\",\n    \"ns-p-3.kit-dns.net\"\n  ],\n  \"emails\": null\n}"
+    },
+    "found_on": "2025-04-27T01:17:02.693706",
+    "sources": [
+      {
+        "url": "http://dbis.ipd.uni-karlsruhe.de/1184.php",
+        "text": "\"Collaborative Search And User Privacy: How Can They Be Reconciled?\"",
+        "article_title": "Collaborative search engine",
+        "article_url": "https://en.wikipedia.org/wiki/Collaborative_search_engine"
+      }
+    ]
+  },
+  "old.cni.org:80": {
+    "domain": "old.cni.org:80",
+    "status": "Potentially available",
+    "details": {
+      "whois": "{\n  \"domain_name\": null,\n  \"registrar\": null,\n  \"registrar_url\": null,\n  \"reseller\": null,\n  \"whois_server\": null,\n  \"referral_url\": null,\n  \"updated_date\": null,\n  \"creation_date\": null,\n  \"expiration_date\": null,\n  \"name_servers\": null,\n  \"status\": null,\n  \"emails\": null,\n  \"dnssec\": null,\n  \"name\": null,\n  \"org\": null,\n  \"address\": null,\n  \"city\": null,\n  \"state\": null,\n  \"registrant_postal_code\": null,\n  \"country\": null\n}"
+    },
+    "found_on": "2025-04-27T01:18:02.416252",
+    "sources": [
+      {
+        "url": "http://old.cni.org:80/docs/infopols/NSF.html",
+        "text": "\"NSFNet Acceptable Use Policy\"",
+        "article_title": "Online advertising",
+        "article_url": "https://en.wikipedia.org/wiki/Online_advertising"
+      }
+    ]
+  },
+  "pure.au.dk": {
+    "domain": "pure.au.dk",
+    "status": "Potentially available",
+    "details": {
+      "whois": "{\n  \"domain_name\": \"au.dk\",\n  \"creation_date\": \"1996-02-02 00:00:00\",\n  \"expiration_date\": \"2026-03-31 00:00:00\",\n  \"registrar\": null,\n  \"dnssec\": \"Signed delegation\",\n  \"status\": \"Active\",\n  \"registrant_handle\": \"***N/A***\",\n  \"registrant_name\": \"AARHUS UNIVERSITET\",\n  \"registrant_address\": \"Nordre Ringgade 1\",\n  \"registrant_postal_code\": \"8000\",\n  \"registrant_city\": \"Aarhus C\",\n  \"registrant_country\": \"DK\",\n  \"name_servers\": [\n    \"ns3.au.dk\",\n    \"ns4.au.dk\"\n  ]\n}"
+    },
+    "found_on": "2025-04-27T01:19:20.999772",
+    "sources": [
+      {
+        "url": "http://pure.au.dk/portal/files/10113/Hermes-44paulsen_christensenschjoldager.pdf",
+        "text": "\"Translation-Memory (TM) Research: What Do We Know and How Do We Know It?\"",
+        "article_title": "Computer-assisted translation",
+        "article_url": "https://en.wikipedia.org/wiki/Computer-assisted_translation"
+      }
+    ]
+  },
+  "newshub.co.nz": {
+    "domain": "newshub.co.nz",
+    "status": "Potentially available",
+    "details": {
+      "whois": "{\n  \"domain_name\": null,\n  \"registrar\": null,\n  \"updated_date\": null,\n  \"creation_date\": null,\n  \"expiration_date\": null,\n  \"name_servers\": null,\n  \"status\": \"ok https://icann.org/epp#ok\",\n  \"emails\": null,\n  \"name\": null,\n  \"address\": null,\n  \"city\": null,\n  \"registrant_postal_code\": null,\n  \"country\": null\n}"
+    },
+    "found_on": "2025-04-27T01:19:31.972402",
+    "sources": [
+      {
+        "url": "http://www.newshub.co.nz/technology/yahoo-to-buy-tumblr--reports-2013052011",
+        "text": "the original",
+        "article_title": "Yahoo",
+        "article_url": "https://en.wikipedia.org/wiki/Yahoo"
+      }
+    ]
+  },
+  "techfae.com": {
+    "domain": "techfae.com",
+    "status": "No DNS record found",
+    "details": {},
+    "found_on": "2025-04-27T01:21:21.950627",
+    "sources": [
+      {
+        "url": "https://www.techfae.com/linux-running-almost-supercomputers/",
+        "text": "\"Linux is Running on Almost all of the Supercomputers\"",
+        "article_title": "Usage share of operating systems",
+        "article_url": "https://en.wikipedia.org/wiki/Usage_share_of_operating_systems"
+      }
+    ]
+  },
+  "dradio.de": {
+    "domain": "dradio.de",
+    "status": "Potentially available",
+    "details": {
+      "whois": "{\n  \"domain_name\": \"dradio.de\",\n  \"status\": \"connect\",\n  \"updated_date\": \"2022-12-17 17:29:50+01:00\",\n  \"name\": null,\n  \"org\": null,\n  \"address\": null,\n  \"registrant_postal_code\": null,\n  \"city\": null,\n  \"country_code\": null,\n  \"phone\": null,\n  \"fax\": null,\n  \"name_servers\": [\n    \"auth1.dns.cogentco.com\",\n    \"auth2.dns.cogentco.com\",\n    \"ns1.vodafone-ip.de\",\n    \"ns2.vodafone-ip.de\"\n  ],\n  \"emails\": null\n}"
+    },
+    "found_on": "2025-04-27T01:24:47.646210",
+    "sources": [
+      {
+        "url": "http://www.dradio.de/dlr/sendungen/kalender/127148/",
+        "text": "\"Vor 10 Jahren \u2013 Walter Sedlmayr ermordet\"",
+        "article_title": "Right to be forgotten",
+        "article_url": "https://en.wikipedia.org/wiki/Right_to_be_forgotten"
+      }
+    ]
+  },
+  "focus.de": {
+    "domain": "focus.de",
+    "status": "Potentially available",
+    "details": {
+      "whois": "{\n  \"domain_name\": \"focus.de\",\n  \"status\": \"connect\",\n  \"updated_date\": \"2023-08-28 13:42:19+02:00\",\n  \"name\": null,\n  \"org\": null,\n  \"address\": null,\n  \"registrant_postal_code\": null,\n  \"city\": null,\n  \"country_code\": null,\n  \"phone\": null,\n  \"fax\": null,\n  \"name_servers\": [\n    \"a11-64.akam.net\",\n    \"a1-195.akam.net\",\n    \"a18-65.akam.net\",\n    \"a20-66.akam.net\",\n    \"a26-67.akam.net\",\n    \"a7-64.akam.net\"\n  ],\n  \"emails\": null\n}"
+    },
+    "found_on": "2025-04-27T01:24:48.317263",
+    "sources": [
+      {
+        "url": "http://www.focus.de/digital/internet/bgh-urteil-keine-staendige-kontrolle-von-online-archiven_aid_463464.html",
+        "text": "\"BGH-Urteil \u2013 Keine st\u00e4ndige Kontrolle von Online-Archiven\"",
+        "article_title": "Right to be forgotten",
+        "article_url": "https://en.wikipedia.org/wiki/Right_to_be_forgotten"
+      }
+    ]
+  },
+  "eurighttobeforgotten.com": {
+    "domain": "eurighttobeforgotten.com",
+    "status": "No DNS record found",
+    "details": {},
+    "found_on": "2025-04-27T01:24:57.575403",
+    "sources": [
+      {
+        "url": "http://eurighttobeforgotten.com/musician-attempts-use-eu-right-forgotten-hide-bad-review/",
+        "text": "\"Musician attempts use EU Right To Be Forgotten to hide a bad review\"",
+        "article_title": "Right to be forgotten",
+        "article_url": "https://en.wikipedia.org/wiki/Right_to_be_forgotten"
+      }
+    ]
+  },
+  "inforights.im": {
+    "domain": "inforights.im",
+    "status": "Potentially available",
+    "details": {
+      "whois": "{\n  \"domain_name\": \"inforights.im\",\n  \"registrar\": null,\n  \"registrar_url\": null,\n  \"reseller\": null,\n  \"whois_server\": null,\n  \"referral_url\": null,\n  \"updated_date\": null,\n  \"creation_date\": null,\n  \"expiration_date\": \"2026-05-03 00:59:58\",\n  \"name_servers\": [\n    \"pebbles.iom.com.\",\n    \"barney.advsys.co.uk.\"\n  ],\n  \"status\": null,\n  \"emails\": \"info@nic.im\",\n  \"dnssec\": null,\n  \"name\": null,\n  \"org\": null,\n  \"address\": null,\n  \"city\": null,\n  \"state\": null,\n  \"registrant_postal_code\": null,\n  \"country\": null\n}"
+    },
+    "found_on": "2025-04-27T01:25:00.240349",
+    "sources": [
+      {
+        "url": "https://www.inforights.im/media/1186/cl_eu_commission_factsheet_right_to_be-forgotten.pdf",
+        "text": "the original",
+        "article_title": "Right to be forgotten",
+        "article_url": "https://en.wikipedia.org/wiki/Right_to_be_forgotten"
+      }
+    ]
+  },
+  "eureka.eu.com": {
+    "domain": "eureka.eu.com",
+    "status": "No DNS record found",
+    "details": {},
+    "found_on": "2025-04-27T01:25:06.981411",
+    "sources": [
+      {
+        "url": "https://eureka.eu.com/gdpr/the-right-to-be-forgotten/",
+        "text": "The Right to be Forgotten",
+        "article_title": "Right to be forgotten",
+        "article_url": "https://en.wikipedia.org/wiki/Right_to_be_forgotten"
+      }
+    ]
+  },
+  "dw.de": {
+    "domain": "dw.de",
+    "status": "Potentially available",
+    "details": {
+      "whois": "{\n  \"domain_name\": \"dw.de\",\n  \"status\": \"connect\",\n  \"updated_date\": \"2023-01-13 11:23:26+01:00\",\n  \"name\": null,\n  \"org\": null,\n  \"address\": null,\n  \"registrant_postal_code\": null,\n  \"city\": null,\n  \"country_code\": null,\n  \"phone\": null,\n  \"fax\": null,\n  \"name_servers\": [\n    \"dns3.netcologne.de\",\n    \"dns4.netcologne.de\",\n    \"dns5.netcologne.de\",\n    \"voltaire.dwelle.de\"\n  ],\n  \"emails\": null\n}"
+    },
+    "found_on": "2025-04-27T01:27:46.383586",
+    "sources": [
+      {
+        "url": "http://www.dw.de/german-foreign-minister-joins-criticism-of-googles-mapping-program/a-5910738",
+        "text": "\"German foreign minister joins criticism of Google's mapping program\"",
+        "article_title": "Censorship by Google",
+        "article_url": "https://en.wikipedia.org/wiki/Censorship_by_Google"
+      }
+    ]
+  },
+  "digbib.ubka.uni-karlsruhe.de": {
+    "domain": "digbib.ubka.uni-karlsruhe.de",
+    "status": "Potentially available",
+    "details": {
+      "whois": "{\n  \"domain_name\": \"uni-karlsruhe.de\",\n  \"status\": \"connect\",\n  \"updated_date\": \"2024-11-06 17:59:32+01:00\",\n  \"name\": null,\n  \"org\": null,\n  \"address\": null,\n  \"registrant_postal_code\": null,\n  \"city\": null,\n  \"country_code\": null,\n  \"phone\": null,\n  \"fax\": null,\n  \"name_servers\": [\n    \"ns-p-1.kit-dns.eu\",\n    \"ns-p-2.kit-dns.de\",\n    \"ns-p-3.kit-dns.net\"\n  ],\n  \"emails\": null\n}"
+    },
+    "found_on": "2025-04-27T01:28:51.324147",
+    "sources": [
+      {
+        "url": "http://digbib.ubka.uni-karlsruhe.de/volltexte/1000029081",
+        "text": "Wiesenm\u00fcller, Heidrun (2012): Resource Discovery Systeme \u2013 Chance oder Verh\u00e4ngnis f\u00fcr die bibliothekarische Erschlie\u00dfung? Vortrag im Rahmen der Jahrestagung der Deutschen Gesellschaft f\u00fcr Klassifikation, 1.\u20132. August 2012, Hildesheim",
+        "article_title": "Discovery system (bibliographic search)",
+        "article_url": "https://en.wikipedia.org/wiki/Discovery_system_(bibliographic_search)"
+      }
+    ]
+  },
+  "googlesitesearch.net": {
+    "domain": "googlesitesearch.net",
+    "status": "No DNS record found",
+    "details": {},
+    "found_on": "2025-04-27T01:29:24.002708",
+    "sources": [
+      {
+        "url": "http://www.googlesitesearch.net/category/addsearch/",
+        "text": "\"AddSearch \u2013 Google Site Search Replacements\"",
+        "article_title": "AddSearch",
+        "article_url": "https://en.wikipedia.org/wiki/AddSearch"
+      }
+    ]
+  },
+  "techie-knowledge.co.in": {
+    "domain": "techie-knowledge.co.in",
+    "status": "Potentially available",
+    "details": {
+      "whois": "{\n  \"domain_name\": null,\n  \"registrar\": null,\n  \"registrar_url\": null,\n  \"registrar_iana\": null,\n  \"updated_date\": null,\n  \"creation_date\": null,\n  \"expiration_date\": null,\n  \"name_servers\": null,\n  \"organization\": null,\n  \"state\": null,\n  \"status\": null,\n  \"emails\": null,\n  \"country\": null,\n  \"dnssec\": null\n}"
+    },
+    "found_on": "2025-04-27T01:31:09.561659",
+    "sources": [
+      {
+        "url": "http://www.techie-knowledge.co.in/2018/07/stop-words-in-hindi-language.html",
+        "text": "List of Hindi Stop Words",
+        "article_title": "Stop word",
+        "article_url": "https://en.wikipedia.org/wiki/Stop_word"
+      }
+    ]
+  },
+  "infospace.com:80": {
+    "domain": "infospace.com:80",
+    "status": "Potentially available",
+    "details": {
+      "whois": "{\n  \"domain_name\": null,\n  \"registrar\": null,\n  \"registrar_url\": null,\n  \"reseller\": null,\n  \"whois_server\": null,\n  \"referral_url\": null,\n  \"updated_date\": null,\n  \"creation_date\": null,\n  \"expiration_date\": null,\n  \"name_servers\": null,\n  \"status\": null,\n  \"emails\": null,\n  \"dnssec\": null,\n  \"name\": null,\n  \"org\": null,\n  \"address\": null,\n  \"city\": null,\n  \"state\": null,\n  \"registrant_postal_code\": null,\n  \"country\": null\n}"
+    },
+    "found_on": "2025-04-27T01:31:15.892119",
+    "sources": [
+      {
+        "url": "http://www.infospace.com:80/info.dogpl/about/corporate/about.htm",
+        "text": "the original",
+        "article_title": "Dogpile",
+        "article_url": "https://en.wikipedia.org/wiki/Dogpile"
+      }
+    ]
+  },
+  "google.com:80": {
+    "domain": "google.com:80",
+    "status": "Potentially available",
+    "details": {
+      "whois": "{\n  \"domain_name\": null,\n  \"registrar\": null,\n  \"registrar_url\": null,\n  \"reseller\": null,\n  \"whois_server\": null,\n  \"referral_url\": null,\n  \"updated_date\": null,\n  \"creation_date\": null,\n  \"expiration_date\": null,\n  \"name_servers\": null,\n  \"status\": null,\n  \"emails\": null,\n  \"dnssec\": null,\n  \"name\": null,\n  \"org\": null,\n  \"address\": null,\n  \"city\": null,\n  \"state\": null,\n  \"registrant_postal_code\": null,\n  \"country\": null\n}"
+    },
+    "found_on": "2025-04-27T01:33:44.621362",
+    "sources": [
+      {
+        "url": "http://www.google.com:80/gmm/index.html",
+        "text": "the original",
+        "article_title": "Google Maps",
+        "article_url": "https://en.wikipedia.org/wiki/Google_Maps"
+      }
+    ]
+  },
+  "archive.is": {
+    "domain": "archive.is",
+    "status": "Potentially available",
+    "details": {
+      "whois": "{\n  \"domain_name\": \"archive.is\",\n  \"registrant_name\": \"DP36-IS\",\n  \"name\": \"Denis Petrov\",\n  \"address\": [\n    \"Bilkova 16\",\n    \"Prague, Stare Mesto 11000\",\n    \"CZ\"\n  ],\n  \"creation_date\": \"2012-05-16 00:00:00\",\n  \"expiration_date\": \"2028-05-16 00:00:00\",\n  \"email\": \"domains@dns.li\",\n  \"name_servers\": [\n    \"carl.archive.is\",\n    \"dave.archive.ph\",\n    \"elsa.archive.li\",\n    \"sara.archive.md\"\n  ],\n  \"dnssec\": \"unsigned delegation\"\n}"
+    },
+    "found_on": "2025-04-27T01:34:22.611979",
+    "sources": [
+      {
+        "url": "https://archive.is/e7H9S",
+        "text": "\"Someone Put Facial Recognition Tech onto Meta's Smart Glasses to Instantly Dox Strangers\"",
+        "article_title": "PimEyes",
+        "article_url": "https://en.wikipedia.org/wiki/PimEyes"
+      }
+    ]
+  },
+  "garystew.com": {
+    "domain": "garystew.com",
+    "status": "No DNS record found",
+    "details": {},
+    "found_on": "2025-04-27T01:34:46.751631",
+    "sources": [
+      {
+        "url": "http://www.garystew.com/wazap-and-german-innovation/",
+        "text": "Wazap and German Innovation",
+        "article_title": "Wazap!",
+        "article_url": "https://en.wikipedia.org/wiki/Wazap!"
+      }
+    ]
+  },
+  "draculamoneylair.com": {
+    "domain": "draculamoneylair.com",
+    "status": "No DNS record found",
+    "details": {},
+    "found_on": "2025-04-27T01:35:39.963021",
+    "sources": [
+      {
+        "url": "https://www.draculamoneylair.com/a-comprehensive-guide-for-youtube-automation-with-ai",
+        "text": "\"A Comprehensive Guide for Youtube Automation with AI\"",
+        "article_title": "YouTube automation",
+        "article_url": "https://en.wikipedia.org/wiki/YouTube_automation"
+      }
+    ]
+  },
+  "search-on.dk": {
+    "domain": "search-on.dk",
+    "status": "Potentially available",
+    "details": {
+      "whois": "{\n  \"domain_name\": \"search-on.dk\",\n  \"creation_date\": \"2008-08-11 00:00:00\",\n  \"expiration_date\": \"2025-08-31 00:00:00\",\n  \"registrar\": null,\n  \"dnssec\": \"Signed delegation\",\n  \"status\": \"Active\",\n  \"registrant_handle\": \"***N/A***\",\n  \"registrant_name\": \"Johnny Richard\",\n  \"registrant_address\": \"Grimstrupvej 101B, st. 10\",\n  \"registrant_postal_code\": \"4700\",\n  \"registrant_city\": \"N\ufffdstved\",\n  \"registrant_country\": \"DK\",\n  \"name_servers\": [\n    \"ns1.simply.com\",\n    \"ns2.simply.com\",\n    \"ns3.simply.com\",\n    \"ns4.simply.com\"\n  ]\n}"
+    },
+    "found_on": "2025-04-27T01:35:50.013926",
+    "sources": [
+      {
+        "url": "http://www.search-on.dk/soegemaskiner.html",
+        "text": "\"S\u00f8gemaskiner - Search-on.dk JR Corp\"",
+        "article_title": "MetaCrawler",
+        "article_url": "https://en.wikipedia.org/wiki/MetaCrawler"
+      }
+    ]
+  },
+  "ntur.lib.ntu.edu.tw": {
+    "domain": "ntur.lib.ntu.edu.tw",
+    "status": "Potentially available",
+    "details": {
+      "whois": "{\n  \"domain_name\": \"edu.tw\",\n  \"creation_date\": null,\n  \"expiration_date\": null,\n  \"name_servers\": null,\n  \"registrar\": null,\n  \"registrar_url\": null,\n  \"registrant_name\": null,\n  \"registrant_organization\": null,\n  \"registrant_city\": null,\n  \"registrant_street\": null,\n  \"registrant_state_province\": null,\n  \"registrant_country\": null,\n  \"registrant_phone\": null,\n  \"registrant_fax\": null,\n  \"registrant_email\": null,\n  \"admin\": null,\n  \"admin_email\": null,\n  \"admin_phone\": null,\n  \"admin_fax\": null,\n  \"tech\": null,\n  \"tech_email\": null,\n  \"tech_phone\": null,\n  \"tech_fax\": null\n}"
+    },
+    "found_on": "2025-04-27T01:36:14.692442",
+    "sources": [
+      {
+        "url": "http://ntur.lib.ntu.edu.tw//handle/246246/155195",
+        "text": "\"Modeling word perception using the Elman network\"",
+        "article_title": "Autoencoder",
+        "article_url": "https://en.wikipedia.org/wiki/Autoencoder"
+      }
+    ]
+  },
+  "ultratop.be": {
+    "domain": "ultratop.be",
+    "status": "Potentially available",
+    "details": {
+      "whois": "{\n  \"domain_name\": \"ultratop.be\",\n  \"status\": \"NOT AVAILABLE\",\n  \"name\": \"Combell nv\",\n  \"org\": \"Combell\",\n  \"phone\": \"+32.92187978\",\n  \"fax\": null,\n  \"email\": null,\n  \"creation_date\": \"1998-10-20 00:00:00\",\n  \"name_servers\": \"ns3.combell.net\\r\\n\\tns4.combell.net\"\n}"
+    },
+    "found_on": "2025-04-27T01:38:46.498732",
+    "sources": [
+      {
+        "url": "http://www.ultratop.be/nl/artist/Flash_And_The_Pan",
+        "text": "\"Flash and the Pan\"",
+        "article_title": "George Young (rock musician)",
+        "article_url": "https://en.wikipedia.org/wiki/George_Young_(rock_musician)"
+      }
+    ]
+  },
+  "theaustralian.com.au": {
+    "domain": "theaustralian.com.au",
+    "status": "Potentially available",
+    "details": {
+      "whois": "{\n  \"domain_name\": null,\n  \"updated_date\": null,\n  \"registrar\": null,\n  \"status\": null,\n  \"registrant_name\": null,\n  \"registrant_contact_name\": null,\n  \"name_servers\": null,\n  \"registrant_id\": null,\n  \"eligibility_type\": null\n}"
+    },
+    "found_on": "2025-04-27T01:38:54.238547",
+    "sources": [
+      {
+        "url": "http://www.theaustralian.com.au/news/arts/sounds-of-then/story-e6frg8qf-1111117562970",
+        "text": "\"Australia's great rock moments\"",
+        "article_title": "George Young (rock musician)",
+        "article_url": "https://en.wikipedia.org/wiki/George_Young_(rock_musician)"
+      }
+    ]
+  },
+  "lotsofways.de": {
+    "domain": "lotsofways.de",
+    "status": "Potentially available",
+    "details": {
+      "whois": "{\n  \"domain_name\": \"lotsofways.de\",\n  \"status\": \"connect\",\n  \"updated_date\": \"2019-07-20 16:38:32+02:00\",\n  \"name\": null,\n  \"org\": null,\n  \"address\": null,\n  \"registrant_postal_code\": null,\n  \"city\": null,\n  \"country_code\": null,\n  \"phone\": null,\n  \"fax\": null,\n  \"name_servers\": [\n    \"gail.ns.cloudflare.com\",\n    \"walt.ns.cloudflare.com\"\n  ],\n  \"emails\": null\n}"
+    },
+    "found_on": "2025-04-27T01:40:37.440748",
+    "sources": [
+      {
+        "url": "https://www.lotsofways.de/en/is-this-website-allowed-to-send-you-notificationsno-caution-is-advised/",
+        "text": "\"Is this website allowed to send you notifications? NO! - caution is advised\"",
+        "article_title": "Spamming",
+        "article_url": "https://en.wikipedia.org/wiki/Spamming"
+      }
+    ]
+  },
+  "dcc.ufmg.br": {
+    "domain": "dcc.ufmg.br",
+    "status": "Potentially available",
+    "details": {
+      "whois": "{\n  \"domain_name\": \"ufmg.br\",\n  \"registrant_name\": \"UNIVERSIDADE FEDERAL DE MINAS GERAIS\",\n  \"registrant_id\": null,\n  \"country\": null,\n  \"owner_c\": \"URA\",\n  \"admin_c\": null,\n  \"tech_c\": \"URT\",\n  \"billing_c\": null,\n  \"name_server\": [\n    \"gerencia.rede.ufmg.br 150.164.76.164\",\n    \"dns01.rede.ufmg.br 150.164.76.4\",\n    \"dns02.rede.ufmg.br 150.164.76.5\",\n    \"ns.pop-mg.rnp.br\",\n    \"dns.tche.br\"\n  ],\n  \"nsstat\": \"20250424 AA\",\n  \"nslastaa\": \"20250424\",\n  \"saci\": null,\n  \"creation_date\": [\n    \"1995-01-01 00:00:00\",\n    \"1998-02-17 00:00:00\"\n  ],\n  \"updated_date\": [\n    \"2023-12-07 00:00:00\",\n    \"2020-09-01 00:00:00\",\n    \"2018-03-12 00:00:00\"\n  ],\n  \"expiration_date\": null,\n  \"status\": \"published\",\n  \"nic_hdl_br\": [\n    \"URA\",\n    \"URT\"\n  ],\n  \"person\": [\n    \"UFMG Responsavel Administrativo\",\n    \"UFMG Responsavel Tecnico\"\n  ],\n  \"email\": null\n}"
+    },
+    "found_on": "2025-04-27T01:40:46.723267",
+    "sources": [
+      {
+        "url": "http://www.dcc.ufmg.br/~fabricio/download/sigirfp437-benevenuto.pdf",
+        "text": "ACM SIGIR Conference",
+        "article_title": "Spamming",
+        "article_url": "https://en.wikipedia.org/wiki/Spamming"
+      }
+    ]
+  },
+  "brechtweigelhaus.de": {
+    "domain": "brechtweigelhaus.de",
+    "status": "Potentially available",
+    "details": {
+      "whois": "{\n  \"domain_name\": \"brechtweigelhaus.de\",\n  \"status\": \"connect\",\n  \"updated_date\": \"2017-09-07 15:30:48+02:00\",\n  \"name\": null,\n  \"org\": null,\n  \"address\": null,\n  \"registrant_postal_code\": null,\n  \"city\": null,\n  \"country_code\": null,\n  \"phone\": null,\n  \"fax\": null,\n  \"name_servers\": [\n    \"ns49.kundenserver.de\",\n    \"ns50.kundenserver.de\"\n  ],\n  \"emails\": null\n}"
+    },
+    "found_on": "2025-04-27T01:40:48.211673",
+    "sources": [
+      {
+        "url": "http://www.brechtweigelhaus.de/css/box/js/icon/en/on-the-dark-side-of-the-planet-temperatures-average-110amp160k.htm",
+        "text": "\"On the dark side of the planet temperatures average 110amp160K\"",
+        "article_title": "Spamming",
+        "article_url": "https://en.wikipedia.org/wiki/Spamming"
+      }
+    ]
+  },
+  "kzp.bg": {
+    "domain": "kzp.bg",
+    "status": "Potentially available",
+    "details": {
+      "whois": "{\n  \"domain_name\": \"kzp.bg (kzp.bg)\",\n  \"status\": \"busy, active\",\n  \"expiration_date\": null\n}"
+    },
+    "found_on": "2025-04-27T01:40:54.374968",
+    "sources": [
+      {
+        "url": "http://www.kzp.bg/register/",
+        "text": "the original",
+        "article_title": "Spamming",
+        "article_url": "https://en.wikipedia.org/wiki/Spamming"
+      }
+    ]
+  },
+  "fordpby.ca": {
+    "domain": "fordpby.ca",
+    "status": "No DNS record found",
+    "details": {},
+    "found_on": "2025-04-27T01:42:11.770042",
+    "sources": [
+      {
+        "url": "http://www.fordpby.ca/",
+        "text": "the original",
+        "article_title": "Search Engine (radio show)",
+        "article_url": "https://en.wikipedia.org/wiki/Search_Engine_(radio_show)"
+      }
+    ]
+  },
+  "abc.net.au": {
+    "domain": "abc.net.au",
+    "status": "Potentially available",
+    "details": {
+      "whois": "{\n  \"domain_name\": null,\n  \"updated_date\": null,\n  \"registrar\": null,\n  \"status\": null,\n  \"registrant_name\": null,\n  \"registrant_contact_name\": null,\n  \"name_servers\": null,\n  \"registrant_id\": null,\n  \"eligibility_type\": null\n}"
+    },
+    "found_on": "2025-04-27T01:42:59.285478",
+    "sources": [
+      {
+        "url": "http://www.abc.net.au/unleashed/2943828.html",
+        "text": "\"Google+: What's In a Name?\"",
+        "article_title": "Privacy concerns with Google",
+        "article_url": "https://en.wikipedia.org/wiki/Privacy_concerns_with_Google"
+      },
+      {
+        "url": "http://www.abc.net.au/news/newsitems/200605/s1638893.htm",
+        "text": "Channel 7 Stars Cleared in Contempt Case",
+        "article_title": "David Koch (television presenter)",
+        "article_url": "https://en.wikipedia.org/wiki/David_Koch_(television_presenter)"
+      }
+    ]
+  },
+  "canberratimes.com.au": {
+    "domain": "canberratimes.com.au",
+    "status": "Potentially available",
+    "details": {
+      "whois": "{\n  \"domain_name\": null,\n  \"updated_date\": null,\n  \"registrar\": null,\n  \"status\": null,\n  \"registrant_name\": null,\n  \"registrant_contact_name\": null,\n  \"name_servers\": null,\n  \"registrant_id\": null,\n  \"eligibility_type\": null\n}"
+    },
+    "found_on": "2025-04-27T01:43:01.745335",
+    "sources": [
+      {
+        "url": "http://www.canberratimes.com.au/news/opinion/editorial/general/brand-wars/2312668.aspx?storypage=2",
+        "text": "\"Brand Wars\"",
+        "article_title": "Privacy concerns with Google",
+        "article_url": "https://en.wikipedia.org/wiki/Privacy_concerns_with_Google"
+      }
+    ]
+  },
+  "dw-world.de": {
+    "domain": "dw-world.de",
+    "status": "Potentially available",
+    "details": {
+      "whois": "{\n  \"domain_name\": \"dw-world.de\",\n  \"status\": \"connect\",\n  \"updated_date\": \"2019-04-10 15:58:03+02:00\",\n  \"name\": null,\n  \"org\": null,\n  \"address\": null,\n  \"registrant_postal_code\": null,\n  \"city\": null,\n  \"country_code\": null,\n  \"phone\": null,\n  \"fax\": null,\n  \"name_servers\": [\n    \"dns3.netcologne.de\",\n    \"dns4.netcologne.de\",\n    \"dns5.netcologne.de\",\n    \"voltaire.dwelle.de\"\n  ],\n  \"emails\": null\n}"
+    },
+    "found_on": "2025-04-27T01:43:05.841581",
+    "sources": [
+      {
+        "url": "http://www.dw-world.de/dw/article/0,,6006085,00.html",
+        "text": "\"Czech Republic stops Google from further Street View photography\"",
+        "article_title": "Privacy concerns with Google",
+        "article_url": "https://en.wikipedia.org/wiki/Privacy_concerns_with_Google"
+      }
+    ]
+  },
+  "notesconnectors.com": {
+    "domain": "notesconnectors.com",
+    "status": "No DNS record found",
+    "details": {},
+    "found_on": "2025-04-27T01:43:54.229654",
+    "sources": [
+      {
+        "url": "http://www.notesconnectors.com",
+        "text": "[1]",
+        "article_title": "IFilter",
+        "article_url": "https://en.wikipedia.org/wiki/IFilter"
+      }
+    ]
+  },
+  "ahmia.fi": {
+    "domain": "ahmia.fi",
+    "status": "Potentially available",
+    "details": {
+      "whois": "{\n  \"domain_name\": null,\n  \"name\": null,\n  \"address\": null,\n  \"phone\": null,\n  \"email\": null,\n  \"status\": null,\n  \"creation_date\": null,\n  \"updated_date\": null,\n  \"expiration_date\": null,\n  \"name_servers\": null,\n  \"name_server_statuses\": null,\n  \"dnssec\": null,\n  \"registrar\": null,\n  \"registrar_site\": null\n}"
+    },
+    "found_on": "2025-04-27T01:44:18.695619",
+    "sources": [
+      {
+        "url": "https://ahmia.fi/",
+        "text": "ahmia.fi",
+        "article_title": "Ahmia",
+        "article_url": "https://en.wikipedia.org/wiki/Ahmia"
+      }
+    ]
+  },
+  "faculty.mu.edu.sa": {
+    "domain": "faculty.mu.edu.sa",
+    "status": "Potentially available",
+    "details": {
+      "whois": "{\n  \"domain_name\": \"mu.edu.sa\",\n  \"creation_date\": null,\n  \"updated_date\": null,\n  \"name_servers\": \"matt.ns.cloudflare.com\\nsue.ns.cloudflare.com\",\n  \"registrant_name\": \"\u062c\u0627\u0645\u0639\u0629 \u0627\u0644\u0645\u062c\u0645\u0639\u0629\",\n  \"registrant_address\": \"****************\\n***** **************\\nUnknown\",\n  \"admin_address\": \"***** *****\\n***** *****\\n*****\",\n  \"admin\": \"\u062f. ***** ***** ***** ***** *****\",\n  \"tech_address\": \"***** *****\\n***** *****\\n*****\",\n  \"tech\": \"\u0645. ***** ***** *****\"\n}"
+    },
+    "found_on": "2025-04-27T02:01:54.053698",
+    "sources": [
+      {
+        "url": "http://faculty.mu.edu.sa/public/uploads/1361725683.7557marketing%20mix54.PDF",
+        "text": "the original",
+        "article_title": "Marketing",
+        "article_url": "https://en.wikipedia.org/wiki/Marketing"
+      },
+      {
+        "url": "http://faculty.mu.edu.sa/public/uploads/1361725683.7557marketing%20mix54.PDF",
+        "text": "the original",
+        "article_title": "Marketing mix",
+        "article_url": "https://en.wikipedia.org/wiki/Marketing_mix"
+      },
+      {
+        "url": "http://faculty.mu.edu.sa/public/uploads/1361725683.7557marketing%20mix54.PDF",
+        "text": "\"From Marketing Mix to E-Marketing Mix: A Literature Review,\"",
+        "article_title": "Target market",
+        "article_url": "https://en.wikipedia.org/wiki/Target_market"
+      }
+    ]
+  },
+  "ijsses.tiu.edu.iq": {
+    "domain": "ijsses.tiu.edu.iq",
+    "status": "Potentially available",
+    "details": {
+      "whois": "{\n  \"domain_name\": null,\n  \"registrar\": null,\n  \"registrar_url\": null,\n  \"reseller\": null,\n  \"whois_server\": null,\n  \"referral_url\": null,\n  \"updated_date\": null,\n  \"creation_date\": null,\n  \"expiration_date\": null,\n  \"name_servers\": null,\n  \"status\": null,\n  \"emails\": null,\n  \"dnssec\": null,\n  \"name\": null,\n  \"org\": null,\n  \"address\": null,\n  \"city\": null,\n  \"state\": null,\n  \"registrant_postal_code\": null,\n  \"country\": null\n}"
+    },
+    "found_on": "2025-04-27T02:02:42.088071",
+    "sources": [
+      {
+        "url": "http://ijsses.tiu.edu.iq/index.php/volume-4-issue-4-article-10/",
+        "text": "\"The Evaluation of Marketing Mix Elements: A Case Study\"",
+        "article_title": "Marketing mix",
+        "article_url": "https://en.wikipedia.org/wiki/Marketing_mix"
+      }
+    ]
+  },
+  "marinsoftware.com": {
+    "domain": "marinsoftware.com",
+    "status": "Potentially available",
+    "details": {
+      "whois": "{\n  \"domain_name\": null,\n  \"registrar\": null,\n  \"registrar_url\": null,\n  \"reseller\": null,\n  \"whois_server\": null,\n  \"referral_url\": null,\n  \"updated_date\": null,\n  \"creation_date\": null,\n  \"expiration_date\": null,\n  \"name_servers\": null,\n  \"status\": null,\n  \"emails\": null,\n  \"dnssec\": null,\n  \"name\": null,\n  \"org\": null,\n  \"address\": null,\n  \"city\": null,\n  \"state\": null,\n  \"registrant_postal_code\": null,\n  \"country\": null\n}"
+    },
+    "found_on": "2025-04-27T02:03:35.508021",
+    "sources": [
+      {
+        "url": "http://www.marinsoftware.com/downloads/forrester_paper_revenue_outcomes.pdf",
+        "text": "\"Revenue Outcomes Matter to Online Advertisers: Advanced Automation Can Improve Efficiency And Results\"",
+        "article_title": "Online advertising",
+        "article_url": "https://en.wikipedia.org/wiki/Online_advertising"
+      }
+    ]
+  },
+  "spiral.imperial.ac.uk:8443": {
+    "domain": "spiral.imperial.ac.uk:8443",
+    "status": "Potentially available",
+    "details": {
+      "whois": "{\n  \"domain_name\": null,\n  \"registrar\": null,\n  \"registrar_url\": null,\n  \"reseller\": null,\n  \"whois_server\": null,\n  \"referral_url\": null,\n  \"updated_date\": null,\n  \"creation_date\": null,\n  \"expiration_date\": null,\n  \"name_servers\": null,\n  \"status\": null,\n  \"emails\": null,\n  \"dnssec\": null,\n  \"name\": null,\n  \"org\": null,\n  \"address\": null,\n  \"city\": null,\n  \"state\": null,\n  \"registrant_postal_code\": null,\n  \"country\": null\n}"
+    },
+    "found_on": "2025-04-27T02:06:09.788624",
+    "sources": [
+      {
+        "url": "https://spiral.imperial.ac.uk:8443/handle/10044/1/24944",
+        "text": "Social media and their impact on organisations: building Firm Celebrity and organisational legitimacy through social media",
+        "article_title": "Social media marketing",
+        "article_url": "https://en.wikipedia.org/wiki/Social_media_marketing"
+      }
+    ]
+  },
+  "mim.ac.mw": {
+    "domain": "mim.ac.mw",
+    "status": "Potentially available",
+    "details": {
+      "whois": "{\n  \"domain_name\": null,\n  \"registrar\": null,\n  \"registrar_url\": null,\n  \"reseller\": null,\n  \"whois_server\": null,\n  \"referral_url\": null,\n  \"updated_date\": null,\n  \"creation_date\": null,\n  \"expiration_date\": null,\n  \"name_servers\": null,\n  \"status\": null,\n  \"emails\": null,\n  \"dnssec\": null,\n  \"name\": null,\n  \"org\": null,\n  \"address\": null,\n  \"city\": null,\n  \"state\": null,\n  \"registrant_postal_code\": null,\n  \"country\": null\n}"
+    },
+    "found_on": "2025-04-27T02:06:22.277378",
+    "sources": [
+      {
+        "url": "http://www.mim.ac.mw/books/Strategic%20Marketing%20and%20Resource%20base%20view.pdf",
+        "text": "\"Strategic Marketing and the Resource Based View of the Firm\"",
+        "article_title": "Marketing strategy",
+        "article_url": "https://en.wikipedia.org/wiki/Marketing_strategy"
+      }
+    ]
+  },
+  "civalue.levit.dev": {
+    "domain": "civalue.levit.dev",
+    "status": "Potentially available",
+    "details": {
+      "whois": "{\n  \"domain_name\": null,\n  \"registrar\": null,\n  \"registrar_url\": null,\n  \"reseller\": null,\n  \"whois_server\": null,\n  \"referral_url\": null,\n  \"updated_date\": null,\n  \"creation_date\": null,\n  \"expiration_date\": null,\n  \"name_servers\": null,\n  \"status\": null,\n  \"emails\": null,\n  \"dnssec\": null,\n  \"name\": null,\n  \"org\": null,\n  \"address\": null,\n  \"city\": null,\n  \"state\": null,\n  \"registrant_postal_code\": null,\n  \"country\": null\n}"
+    },
+    "found_on": "2025-04-27T02:08:03.886086",
+    "sources": [
+      {
+        "url": "https://civalue.levit.dev/blog/omnichannel-personalization/how-to-use-ai-to-solve-fmcg-business-problems/",
+        "text": "\"How to use AI to solve FMCG business problems using a recommendation for a Shopping List as a use case\"",
+        "article_title": "Personalized marketing",
+        "article_url": "https://en.wikipedia.org/wiki/Personalized_marketing"
+      }
+    ]
+  },
+  "tijd.be": {
+    "domain": "tijd.be",
+    "status": "Potentially available",
+    "details": {
+      "whois": "{\n  \"domain_name\": \"tijd.be\",\n  \"status\": \"NOT AVAILABLE\",\n  \"name\": \"Combell nv\",\n  \"org\": null,\n  \"phone\": null,\n  \"fax\": null,\n  \"email\": null,\n  \"creation_date\": \"1994-09-01 00:00:00\",\n  \"name_servers\": null\n}"
+    },
+    "found_on": "2025-04-27T02:09:17.823579",
+    "sources": [
+      {
+        "url": "http://www.tijd.be/nieuws/ondernemingen_financien/KBC_verkoopt_ValueSource_aan_Cognizant.9415036-3095.art",
+        "text": "\"KBC verkoopt ValueSource aan Cognizant\"",
+        "article_title": "Cognizant",
+        "article_url": "https://en.wikipedia.org/wiki/Cognizant"
+      }
+    ]
+  },
+  "bestbeautyforyou.com": {
+    "domain": "bestbeautyforyou.com",
+    "status": "No DNS record found",
+    "details": {},
+    "found_on": "2025-04-27T02:11:58.379994",
+    "sources": [
+      {
+        "url": "https://www.bestbeautyforyou.com/2023/02/free-online-digital-marketing-courses.html",
+        "text": "\"Digital Garage\"",
+        "article_title": "Google Digital Garage",
+        "article_url": "https://en.wikipedia.org/wiki/Google_Digital_Garage"
+      },
+      {
+        "url": "https://www.bestbeautyforyou.com/players/education/course-options/google-digital-garage",
+        "text": "\"Google Digital Garage\"",
+        "article_title": "Google Digital Garage",
+        "article_url": "https://en.wikipedia.org/wiki/Google_Digital_Garage"
+      }
+    ]
+  },
+  "zxjg.saic.gov.cn": {
+    "domain": "zxjg.saic.gov.cn",
+    "status": "Potentially available",
+    "details": {
+      "whois": "{\n  \"domain_name\": null,\n  \"registrar\": null,\n  \"creation_date\": null,\n  \"expiration_date\": null,\n  \"name_servers\": null,\n  \"status\": null,\n  \"emails\": null,\n  \"dnssec\": null,\n  \"name\": null\n}"
+    },
+    "found_on": "2025-04-27T02:12:44.172807",
+    "sources": [
+      {
+        "url": "http://zxjg.saic.gov.cn/saicmrktout/etpsPublish.do?method=toEtpsList",
+        "text": "the original",
+        "article_title": "Multi-level marketing",
+        "article_url": "https://en.wikipedia.org/wiki/Multi-level_marketing"
+      }
+    ]
+  },
+  "dailymirror.lk": {
+    "domain": "dailymirror.lk",
+    "status": "Potentially available",
+    "details": {
+      "whois": "{\n  \"domain_name\": null,\n  \"registrar\": null,\n  \"registrar_url\": null,\n  \"reseller\": null,\n  \"whois_server\": null,\n  \"referral_url\": null,\n  \"updated_date\": null,\n  \"creation_date\": null,\n  \"expiration_date\": null,\n  \"name_servers\": null,\n  \"status\": null,\n  \"emails\": null,\n  \"dnssec\": null,\n  \"name\": null,\n  \"org\": null,\n  \"address\": null,\n  \"city\": null,\n  \"state\": null,\n  \"registrant_postal_code\": null,\n  \"country\": null\n}"
+    },
+    "found_on": "2025-04-27T02:14:14.548433",
+    "sources": [
+      {
+        "url": "http://www.dailymirror.lk/article/Doors-open-for-PayPal-in-Sri-Lanka-says-CB-143016.html",
+        "text": "\"Doors open for PayPal in Sri Lanka, says CB\"",
+        "article_title": "PayPal",
+        "article_url": "https://en.wikipedia.org/wiki/PayPal"
+      }
+    ]
+  },
+  "coalitionfordigitalintelligence.org": {
+    "domain": "coalitionfordigitalintelligence.org",
+    "status": "Expired",
+    "details": {
+      "expiration_date": "2025-03-13 11:53:48",
+      "registrar": "Cosmotown, Inc."
+    },
+    "found_on": "2025-04-27T02:15:17.716225",
+    "sources": [
+      {
+        "url": "https://www.coalitionfordigitalintelligence.org/",
+        "text": "the original",
+        "article_title": "Digital intelligence",
+        "article_url": "https://en.wikipedia.org/wiki/Digital_intelligence"
+      }
+    ]
+  },
+  "mandmglobal.com": {
+    "domain": "mandmglobal.com",
+    "status": "Potentially available",
+    "details": {
+      "whois": "{\n  \"domain_name\": null,\n  \"registrar\": null,\n  \"registrar_url\": null,\n  \"reseller\": null,\n  \"whois_server\": null,\n  \"referral_url\": null,\n  \"updated_date\": null,\n  \"creation_date\": null,\n  \"expiration_date\": null,\n  \"name_servers\": null,\n  \"status\": null,\n  \"emails\": null,\n  \"dnssec\": null,\n  \"name\": null,\n  \"org\": null,\n  \"address\": null,\n  \"city\": null,\n  \"state\": null,\n  \"registrant_postal_code\": null,\n  \"country\": null\n}"
+    },
+    "found_on": "2025-04-27T02:18:09.507199",
+    "sources": [
+      {
+        "url": "http://mandmglobal.com/ipg-launches-healix-to-service-healthcare-clients/",
+        "text": "\"IPG launches Healix to service healthcare clients\"",
+        "article_title": "The Interpublic Group of Companies",
+        "article_url": "https://en.wikipedia.org/wiki/The_Interpublic_Group_of_Companies"
+      }
+    ]
+  },
+  "netsafe.org.nz": {
+    "domain": "netsafe.org.nz",
+    "status": "Potentially available",
+    "details": {
+      "whois": "{\n  \"domain_name\": null,\n  \"registrar\": null,\n  \"updated_date\": null,\n  \"creation_date\": null,\n  \"expiration_date\": null,\n  \"name_servers\": null,\n  \"status\": \"ok https://icann.org/epp#ok\",\n  \"emails\": null,\n  \"name\": null,\n  \"address\": null,\n  \"city\": null,\n  \"registrant_postal_code\": null,\n  \"country\": null\n}"
+    },
+    "found_on": "2025-04-27T02:19:03.937531",
+    "sources": [
+      {
+        "url": "https://www.netsafe.org.nz/digital-footprint/",
+        "text": "\"What is a digital footprint?\"",
+        "article_title": "Digital footprint",
+        "article_url": "https://en.wikipedia.org/wiki/Digital_footprint"
+      }
+    ]
+  },
+  "onlinechurn.com": {
+    "domain": "onlinechurn.com",
+    "status": "No DNS record found",
+    "details": {},
+    "found_on": "2025-04-27T02:19:51.577591",
+    "sources": [
+      {
+        "url": "https://onlinechurn.com/online-education-startup-coursera-has-filed-for-an-ipo/",
+        "text": "\"Online education startup Coursera has filed for an IPO\"",
+        "article_title": "Coursera",
+        "article_url": "https://en.wikipedia.org/wiki/Coursera"
+      }
+    ]
+  },
+  "advertisingglossary.net": {
+    "domain": "advertisingglossary.net",
+    "status": "No DNS record found",
+    "details": {},
+    "found_on": "2025-04-27T02:24:23.610058",
+    "sources": [
+      {
+        "url": "http://www.advertisingglossary.net/definition/1092-Effective_Frequency",
+        "text": "\"Effective Frequency Definition | Define Effective Frequency | What Is It?\"",
+        "article_title": "Frequency (marketing)",
+        "article_url": "https://en.wikipedia.org/wiki/Frequency_(marketing)"
+      }
+    ]
+  },
+  "63.135.117.94": {
+    "domain": "63.135.117.94",
+    "status": "Potentially available",
+    "details": {
+      "whois": "{\n  \"domain_name\": null,\n  \"registrar\": null,\n  \"registrar_url\": null,\n  \"reseller\": null,\n  \"whois_server\": null,\n  \"referral_url\": null,\n  \"updated_date\": null,\n  \"creation_date\": null,\n  \"expiration_date\": null,\n  \"name_servers\": null,\n  \"status\": null,\n  \"emails\": [\n    \"dfrazier@ipm.com\",\n    \"dfrazier@newtekone.com\"\n  ],\n  \"dnssec\": null,\n  \"name\": null,\n  \"org\": null,\n  \"address\": null,\n  \"city\": null,\n  \"state\": null,\n  \"registrant_postal_code\": null,\n  \"country\": null\n}"
+    },
+    "found_on": "2025-04-27T02:25:34.865474",
+    "sources": [
+      {
+        "url": "http://63.135.117.94/kc/getitem.aspx?key=iqpvQ2kx56Kw2xBSFLWAVGDfUQwTLoQYdmI42zgYda4PULMLp7DQOUs4guJDVlAF&filename=SPJ.Print.0606.pdf&profileid=000000000003F169&f_page_source_title=Strategic+Account+Management&vip=",
+        "text": "the original",
+        "article_title": "Account-based marketing",
+        "article_url": "https://en.wikipedia.org/wiki/Account-based_marketing"
+      }
+    ]
+  },
+  "businessworld.inhttps": {
+    "domain": "businessworld.inhttps",
+    "status": "Potentially available",
+    "details": {
+      "whois": "{\n  \"domain_name\": null,\n  \"registrar\": null,\n  \"registrar_url\": null,\n  \"reseller\": null,\n  \"whois_server\": null,\n  \"referral_url\": null,\n  \"updated_date\": null,\n  \"creation_date\": null,\n  \"expiration_date\": null,\n  \"name_servers\": null,\n  \"status\": null,\n  \"emails\": null,\n  \"dnssec\": null,\n  \"name\": null,\n  \"org\": null,\n  \"address\": null,\n  \"city\": null,\n  \"state\": null,\n  \"registrant_postal_code\": null,\n  \"country\": null\n}"
+    },
+    "found_on": "2025-04-27T02:29:01.317260",
+    "sources": [
+      {
+        "url": "http://businessworld.inhttps//www.businessworld.in/article/Cashing-In-On-The-Opportunities/11-11-2021-411565",
+        "text": "\"Cashing In On The Opportunities\"",
+        "article_title": "Hareesh Tibrewala",
+        "article_url": "https://en.wikipedia.org/wiki/Hareesh_Tibrewala"
+      }
+    ]
+  },
+  "arabianmarketer.ae": {
+    "domain": "arabianmarketer.ae",
+    "status": "Potentially available",
+    "details": {
+      "whois": "{\n  \"domain_name\": \"arabianmarketer.ae\",\n  \"status\": \"ok\",\n  \"registrant_name\": \"Zeba Mahmud\",\n  \"tech_name\": \"AEserver.com | Accredited .AE Registrar |\"\n}"
+    },
+    "found_on": "2025-04-27T02:29:15.337536",
+    "sources": [
+      {
+        "url": "http://arabianmarketer.ae/omnicom-launches-omniwomens-uae-chapter/",
+        "text": "\"Omnicom Launches Omniwomen's UAE Chapter\"",
+        "article_title": "Omnicom Group",
+        "article_url": "https://en.wikipedia.org/wiki/Omnicom_Group"
+      }
+    ]
+  },
+  "spamsights.org": {
+    "domain": "spamsights.org",
+    "status": "Expired",
+    "details": {
+      "expiration_date": "2025-03-08 15:15:02",
+      "registrar": "DropCatch.com 1378 LLC"
+    },
+    "found_on": "2025-04-27T02:30:10.578344",
+    "sources": [
+      {
+        "url": "http://www.spamsights.org/",
+        "text": "\"Spamware vendor list\"",
+        "article_title": "Email spam",
+        "article_url": "https://en.wikipedia.org/wiki/Email_spam"
+      }
+    ]
+  },
+  "caube.org.au": {
+    "domain": "caube.org.au",
+    "status": "Potentially available",
+    "details": {
+      "whois": "{\n  \"domain_name\": null,\n  \"updated_date\": null,\n  \"registrar\": null,\n  \"status\": null,\n  \"registrant_name\": null,\n  \"registrant_contact_name\": null,\n  \"name_servers\": null,\n  \"registrant_id\": null,\n  \"eligibility_type\": null\n}"
+    },
+    "found_on": "2025-04-27T02:30:11.609380",
+    "sources": [
+      {
+        "url": "http://www.caube.org.au/whatis.htm",
+        "text": "the original",
+        "article_title": "Email spam",
+        "article_url": "https://en.wikipedia.org/wiki/Email_spam"
+      }
+    ]
+  },
+  "pegasusmail.tk": {
+    "domain": "pegasusmail.tk",
+    "status": "Potentially available",
+    "details": {
+      "whois": "{\n  \"domain_name\": null,\n  \"registrar\": null,\n  \"registrar_url\": null,\n  \"reseller\": null,\n  \"whois_server\": null,\n  \"referral_url\": null,\n  \"updated_date\": null,\n  \"creation_date\": null,\n  \"expiration_date\": null,\n  \"name_servers\": null,\n  \"status\": null,\n  \"emails\": null,\n  \"dnssec\": null,\n  \"name\": null,\n  \"org\": null,\n  \"address\": null,\n  \"city\": null,\n  \"state\": null,\n  \"registrant_postal_code\": null,\n  \"country\": null\n}"
+    },
+    "found_on": "2025-04-27T02:30:24.007397",
+    "sources": [
+      {
+        "url": "http://www.pegasusmail.tk/upload/SPAM_white_paper.pdf",
+        "text": "the original",
+        "article_title": "Email spam",
+        "article_url": "https://en.wikipedia.org/wiki/Email_spam"
+      }
+    ]
+  },
+  "polipapers.upv.es": {
+    "domain": "polipapers.upv.es",
+    "status": "Potentially available",
+    "details": {
+      "whois": "{\n  \"domain_name\": null,\n  \"registrar\": null,\n  \"registrar_url\": null,\n  \"reseller\": null,\n  \"whois_server\": null,\n  \"referral_url\": null,\n  \"updated_date\": null,\n  \"creation_date\": null,\n  \"expiration_date\": null,\n  \"name_servers\": null,\n  \"status\": null,\n  \"emails\": null,\n  \"dnssec\": null,\n  \"name\": null,\n  \"org\": null,\n  \"address\": null,\n  \"city\": null,\n  \"state\": null,\n  \"registrant_postal_code\": null,\n  \"country\": null\n}"
+    },
+    "found_on": "2025-04-27T02:30:36.947322",
+    "sources": [
+      {
+        "url": "https://polipapers.upv.es/index.php/reinad/article/view/3649",
+        "text": "\"Digital Natives, Digital Immigrants Part 2: Do They Really Think Differently?\"",
+        "article_title": "Digital native",
+        "article_url": "https://en.wikipedia.org/wiki/Digital_native"
+      }
+    ]
+  },
+  "dergipark.gov.tr": {
+    "domain": "dergipark.gov.tr",
+    "status": "Potentially available",
+    "details": {
+      "whois": "{\n  \"domain_name\": \"dergipark.gov.tr\",\n  \"creation_date\": \"2013-12-24 00:00:00\",\n  \"expiration_date\": \"2028-12-23 00:00:00\",\n  \"frozen_status\": \"-\",\n  \"status\": \"The domain is LOCKED to transfer.\",\n  \"name_servers\": \"ns1.ulakbim.gov.tr\\nns2.ulakbim.gov.tr\\nns-cloud-b1.googledomains.com\\nns-cloud-b2.googledomains.com\\nns-cloud-b3.googledomains.com\",\n  \"registrant_name\": \"T\u00dcB\u0130TAK ULAKB\u0130M\\n   Hidden upon user request\\n   Hidden upon user request\\n   Hidden upon user request\\n   Hidden upon user request\",\n  \"admin\": null,\n  \"admin_organization\": null,\n  \"admin_address\": null,\n  \"admin_phone\": null,\n  \"admin_fax\": null,\n  \"tech\": null,\n  \"tech_organization\": null,\n  \"tech_address\": null,\n  \"tech_phone\": null,\n  \"tech_fax\": null,\n  \"billing\": null,\n  \"billing_organization\": null,\n  \"billing_address\": null,\n  \"billing_phone\": null,\n  \"billing_fax\": null\n}"
+    },
+    "found_on": "2025-04-27T02:36:19.739395",
+    "sources": [
+      {
+        "url": "http://dergipark.gov.tr/rigeo/issue/11187/133647",
+        "text": "International perspectives on teaching and learning with GIS in secondary schools",
+        "article_title": "Geographic information system",
+        "article_url": "https://en.wikipedia.org/wiki/Geographic_information_system"
+      }
+    ]
+  },
+  "businessmirror.com.ph": {
+    "domain": "businessmirror.com.ph",
+    "status": "Potentially available",
+    "details": {
+      "whois": "{\n  \"domain_name\": null,\n  \"registrar\": null,\n  \"registrar_url\": null,\n  \"reseller\": null,\n  \"whois_server\": null,\n  \"referral_url\": null,\n  \"updated_date\": null,\n  \"creation_date\": null,\n  \"expiration_date\": null,\n  \"name_servers\": null,\n  \"status\": null,\n  \"emails\": null,\n  \"dnssec\": null,\n  \"name\": null,\n  \"org\": null,\n  \"address\": null,\n  \"city\": null,\n  \"state\": null,\n  \"registrant_postal_code\": null,\n  \"country\": null\n}"
+    },
+    "found_on": "2025-04-27T02:36:43.295152",
+    "sources": [
+      {
+        "url": "https://businessmirror.com.ph/2021/12/10/sb19s-sister-group-kaia-hopes-to-conquer-the-airwaves-with-pre-debut-single-kaya/",
+        "text": "\"WSB19's sister group KAIA hopes to conquer the airwaves\"",
+        "article_title": "ShowBT Entertainment",
+        "article_url": "https://en.wikipedia.org/wiki/ShowBT_Entertainment"
+      },
+      {
+        "url": "https://businessmirror.com.ph/blockbuster-lines-greet-jollibees-first-store-opening-in-milan-italy/",
+        "text": "\"Blockbuster lines greet Jollibee's first store opening in Milan, Italy\"",
+        "article_title": "Jollibee",
+        "article_url": "https://en.wikipedia.org/wiki/Jollibee"
+      },
+      {
+        "url": "https://businessmirror.com.ph/2018/04/08/the-burger-chains-embrace/",
+        "text": "\"The burger chains' embrace - Jasper Y. Arcalas\"",
+        "article_title": "Jollibee",
+        "article_url": "https://en.wikipedia.org/wiki/Jollibee"
+      },
+      {
+        "url": "https://businessmirror.com.ph/2019/06/14/watch-kwentong-jollibee-celebrates-true-love-this-fathers-day/",
+        "text": "the original",
+        "article_title": "Jollibee",
+        "article_url": "https://en.wikipedia.org/wiki/Jollibee"
+      },
+      {
+        "url": "https://businessmirror.com.ph/2018/04/19/kids-get-a-feel-of-working-at-jollibee-with-collectible-toy-set/",
+        "text": "\"Kids get a feel of working at Jollibee with collectible toy set\"",
+        "article_title": "Jollibee",
+        "article_url": "https://en.wikipedia.org/wiki/Jollibee"
+      },
+      {
+        "url": "https://businessmirror.com.ph/2018/06/06/jollibee-back-to-school-toys-make-learning-more-fun-and-exciting/",
+        "text": "\"Jollibee back-to-school toys make learning more fun and exciting\"",
+        "article_title": "Jollibee",
+        "article_url": "https://en.wikipedia.org/wiki/Jollibee"
+      },
+      {
+        "url": "http://www.businessmirror.com.ph/thai-e-commerce-web-site-launched-eyes-asean-e-c/",
+        "text": "\"Thai e-commerce web site launched, eyes Asean E.C.\"",
+        "article_title": "Ascend Group",
+        "article_url": "https://en.wikipedia.org/wiki/Ascend_Group"
+      }
+    ]
+  },
+  "consumerprotection.govt.nz": {
+    "domain": "consumerprotection.govt.nz",
+    "status": "Potentially available",
+    "details": {
+      "whois": "{\n  \"domain_name\": null,\n  \"registrar\": null,\n  \"updated_date\": null,\n  \"creation_date\": null,\n  \"expiration_date\": null,\n  \"name_servers\": null,\n  \"status\": \"ok https://icann.org/epp#ok\",\n  \"emails\": null,\n  \"name\": null,\n  \"address\": null,\n  \"city\": null,\n  \"registrant_postal_code\": null,\n  \"country\": null\n}"
+    },
+    "found_on": "2025-04-27T02:39:11.946687",
+    "sources": [
+      {
+        "url": "https://www.consumerprotection.govt.nz/get-guidance/shopping-and-buying/pricing/",
+        "text": "\"Pricing\"",
+        "article_title": "Advertising",
+        "article_url": "https://en.wikipedia.org/wiki/Advertising"
+      }
+    ]
+  },
+  "manroland.us": {
+    "domain": "manroland.us",
+    "status": "Expired",
+    "details": {
+      "expiration_date": "2025-04-24 23:59:59",
+      "registrar": "InternetX GmbH"
+    },
+    "found_on": "2025-04-27T02:43:45.027510",
+    "sources": [
+      {
+        "url": "http://www.manroland.us/Company/News/archives_display.asp?ID=428",
+        "text": "the original",
+        "article_title": "Vistaprint",
+        "article_url": "https://en.wikipedia.org/wiki/Vistaprint"
+      }
+    ]
+  },
+  "ojaconsultores.com": {
+    "domain": "ojaconsultores.com",
+    "status": "No DNS record found",
+    "details": {},
+    "found_on": "2025-04-27T02:43:48.351781",
+    "sources": [
+      {
+        "url": "http://ojaconsultores.com/Documents/PatentedPathToProfits_Forbes.pdf",
+        "text": "The Patented Path To Profits",
+        "article_title": "Vistaprint",
+        "article_url": "https://en.wikipedia.org/wiki/Vistaprint"
+      }
+    ]
+  },
+  "campaignsandgrey25.com": {
+    "domain": "campaignsandgrey25.com",
+    "status": "No DNS record found",
+    "details": {},
+    "found_on": "2025-04-27T02:46:55.083629",
+    "sources": [
+      {
+        "url": "http://www.campaignsandgrey25.com/?page_id=76",
+        "text": "the original",
+        "article_title": "Campaigns & Grey",
+        "article_url": "https://en.wikipedia.org/wiki/Campaigns_&_Grey"
+      }
+    ]
+  },
+  "technogra.ph": {
+    "domain": "technogra.ph",
+    "status": "Potentially available",
+    "details": {
+      "whois": "{\n  \"domain_name\": null,\n  \"registrar\": null,\n  \"registrar_url\": null,\n  \"reseller\": null,\n  \"whois_server\": null,\n  \"referral_url\": null,\n  \"updated_date\": null,\n  \"creation_date\": null,\n  \"expiration_date\": null,\n  \"name_servers\": null,\n  \"status\": null,\n  \"emails\": null,\n  \"dnssec\": null,\n  \"name\": null,\n  \"org\": null,\n  \"address\": null,\n  \"city\": null,\n  \"state\": null,\n  \"registrant_postal_code\": null,\n  \"country\": null\n}"
+    },
+    "found_on": "2025-04-27T02:46:58.812819",
+    "sources": [
+      {
+        "url": "http://technogra.ph/2010/11/23/department-of-tourism-undersecretary-resigns-over-pilipinas-kay-ganda/",
+        "text": "\"Technogra.ph - technogra Resources and Information\"",
+        "article_title": "Campaigns & Grey",
+        "article_url": "https://en.wikipedia.org/wiki/Campaigns_&_Grey"
+      }
+    ]
+  },
+  "sunstar.com.ph": {
+    "domain": "sunstar.com.ph",
+    "status": "Potentially available",
+    "details": {
+      "whois": "{\n  \"domain_name\": null,\n  \"registrar\": null,\n  \"registrar_url\": null,\n  \"reseller\": null,\n  \"whois_server\": null,\n  \"referral_url\": null,\n  \"updated_date\": null,\n  \"creation_date\": null,\n  \"expiration_date\": null,\n  \"name_servers\": null,\n  \"status\": null,\n  \"emails\": null,\n  \"dnssec\": null,\n  \"name\": null,\n  \"org\": null,\n  \"address\": null,\n  \"city\": null,\n  \"state\": null,\n  \"registrant_postal_code\": null,\n  \"country\": null\n}"
+    },
+    "found_on": "2025-04-27T02:47:00.583854",
+    "sources": [
+      {
+        "url": "http://www.sunstar.com.ph/manila/lifestyle/winners-2nd-tinta-awards-bared",
+        "text": "\"Manila\"",
+        "article_title": "Campaigns & Grey",
+        "article_url": "https://en.wikipedia.org/wiki/Campaigns_&_Grey"
+      }
+    ]
+  },
+  "pana.com.ph": {
+    "domain": "pana.com.ph",
+    "status": "Potentially available",
+    "details": {
+      "whois": "{\n  \"domain_name\": null,\n  \"registrar\": null,\n  \"registrar_url\": null,\n  \"reseller\": null,\n  \"whois_server\": null,\n  \"referral_url\": null,\n  \"updated_date\": null,\n  \"creation_date\": null,\n  \"expiration_date\": null,\n  \"name_servers\": null,\n  \"status\": null,\n  \"emails\": null,\n  \"dnssec\": null,\n  \"name\": null,\n  \"org\": null,\n  \"address\": null,\n  \"city\": null,\n  \"state\": null,\n  \"registrant_postal_code\": null,\n  \"country\": null\n}"
+    },
+    "found_on": "2025-04-27T02:47:10.280109",
+    "sources": [
+      {
+        "url": "http://www.pana.com.ph/links/panata.php",
+        "text": "the original",
+        "article_title": "Campaigns & Grey",
+        "article_url": "https://en.wikipedia.org/wiki/Campaigns_&_Grey"
+      }
+    ]
+  },
+  "entertainmentnewsresource.com": {
+    "domain": "entertainmentnewsresource.com",
+    "status": "No DNS record found",
+    "details": {},
+    "found_on": "2025-04-27T02:49:33.323209",
+    "sources": [
+      {
+        "url": "http://www.entertainmentnewsresource.com/article954Jake_Zim_Joins_Sony_Pictures_Digital_Marketing_As_Senior_Vice_President.html",
+        "text": "the original",
+        "article_title": "Jake Zim",
+        "article_url": "https://en.wikipedia.org/wiki/Jake_Zim"
+      }
+    ]
+  },
+  "traveldailynews.gr": {
+    "domain": "traveldailynews.gr",
+    "status": "Potentially available",
+    "details": {
+      "whois": "{\n  \"domain_name\": null,\n  \"registrar\": null,\n  \"registrar_url\": null,\n  \"reseller\": null,\n  \"whois_server\": null,\n  \"referral_url\": null,\n  \"updated_date\": null,\n  \"creation_date\": null,\n  \"expiration_date\": null,\n  \"name_servers\": null,\n  \"status\": null,\n  \"emails\": null,\n  \"dnssec\": null,\n  \"name\": null,\n  \"org\": null,\n  \"address\": null,\n  \"city\": null,\n  \"state\": null,\n  \"registrant_postal_code\": null,\n  \"country\": null\n}"
+    },
+    "found_on": "2025-04-27T02:53:08.431740",
+    "sources": [
+      {
+        "url": "https://traveldailynews.gr/news/article/57694",
+        "text": "\"\u0394\u03b9\u03ac\u03ba\u03c1\u03b9\u03c3\u03b7 \u03c4\u03b7\u03c2 Globe One Digital \u03bc\u03b5 \u03b4\u03cd\u03bf \u03b2\u03c1\u03b1\u03b2\u03b5\u03af\u03b1 \u03c3\u03c4\u03b1 Tourism Awards 2014\"",
+        "article_title": "Globe One Digital",
+        "article_url": "https://en.wikipedia.org/wiki/Globe_One_Digital"
+      }
+    ]
+  },
+  "sport24.gr": {
+    "domain": "sport24.gr",
+    "status": "Potentially available",
+    "details": {
+      "whois": "{\n  \"domain_name\": null,\n  \"registrar\": null,\n  \"registrar_url\": null,\n  \"reseller\": null,\n  \"whois_server\": null,\n  \"referral_url\": null,\n  \"updated_date\": null,\n  \"creation_date\": null,\n  \"expiration_date\": null,\n  \"name_servers\": null,\n  \"status\": null,\n  \"emails\": null,\n  \"dnssec\": null,\n  \"name\": null,\n  \"org\": null,\n  \"address\": null,\n  \"city\": null,\n  \"state\": null,\n  \"registrant_postal_code\": null,\n  \"country\": null\n}"
+    },
+    "found_on": "2025-04-27T02:53:14.825788",
+    "sources": [
+      {
+        "url": "https://www.sport24.gr/media/evdomada-podosfairikou-kai-mpasketikou-eurogroup.4002855.html",
+        "text": "\"\u0395\u03b2\u03b4\u03bf\u03bc\u03ac\u03b4\u03b1 \u03c0\u03bf\u03b4\u03bf\u03c3\u03c6\u03b1\u03b9\u03c1\u03b9\u03ba\u03bf\u03cd \u03ba\u03b1\u03b9 \u03bc\u03c0\u03b1\u03c3\u03ba\u03b5\u03c4\u03b9\u03ba\u03bf\u03cd... Eurogroup!\"",
+        "article_title": "Globe One Digital",
+        "article_url": "https://en.wikipedia.org/wiki/Globe_One_Digital"
+      }
+    ]
+  },
+  "businessnews.gr": {
+    "domain": "businessnews.gr",
+    "status": "Potentially available",
+    "details": {
+      "whois": "{\n  \"domain_name\": null,\n  \"registrar\": null,\n  \"registrar_url\": null,\n  \"reseller\": null,\n  \"whois_server\": null,\n  \"referral_url\": null,\n  \"updated_date\": null,\n  \"creation_date\": null,\n  \"expiration_date\": null,\n  \"name_servers\": null,\n  \"status\": null,\n  \"emails\": null,\n  \"dnssec\": null,\n  \"name\": null,\n  \"org\": null,\n  \"address\": null,\n  \"city\": null,\n  \"state\": null,\n  \"registrant_postal_code\": null,\n  \"country\": null\n}"
+    },
+    "found_on": "2025-04-27T02:53:18.424071",
+    "sources": [
+      {
+        "url": "https://www.businessnews.gr/el/epixeiriseis/epixeiriseis/globe-one-digital-anamesa-stis-tahytera-anaptyssomenes-epiheiriseis-tis-eyropis.html",
+        "text": "\"Globe One Digital: \u0391\u03bd\u03ac\u03bc\u03b5\u03c3\u03b1 \u03c3\u03c4\u03b9\u03c2 \u03c4\u03b1\u03c7\u03cd\u03c4\u03b5\u03c1\u03b1 \u03b1\u03bd\u03b1\u03c0\u03c4\u03c5\u03c3\u03c3\u03cc\u03bc\u03b5\u03bd\u03b5\u03c2 \u03b5\u03c0\u03b9\u03c7\u03b5\u03b9\u03c1\u03ae\u03c3\u03b5\u03b9\u03c2 \u03c4\u03b7\u03c2 \u0395\u03c5\u03c1\u03ce\u03c0\u03b7\u03c2\"",
+        "article_title": "Globe One Digital",
+        "article_url": "https://en.wikipedia.org/wiki/Globe_One_Digital"
+      }
+    ]
+  },
+  "sete.gr": {
+    "domain": "sete.gr",
+    "status": "Potentially available",
+    "details": {
+      "whois": "{\n  \"domain_name\": null,\n  \"registrar\": null,\n  \"registrar_url\": null,\n  \"reseller\": null,\n  \"whois_server\": null,\n  \"referral_url\": null,\n  \"updated_date\": null,\n  \"creation_date\": null,\n  \"expiration_date\": null,\n  \"name_servers\": null,\n  \"status\": null,\n  \"emails\": null,\n  \"dnssec\": null,\n  \"name\": null,\n  \"org\": null,\n  \"address\": null,\n  \"city\": null,\n  \"state\": null,\n  \"registrant_postal_code\": null,\n  \"country\": null\n}"
+    },
+    "found_on": "2025-04-27T02:53:23.571557",
+    "sources": [
+      {
+        "url": "https://sete.gr/en/sete-members/sete-members/sete-members/sete-members-search-results/?cat=&subcat=&area=&key=globe%20one%20digital",
+        "text": "\"SETE Members\"",
+        "article_title": "Globe One Digital",
+        "article_url": "https://en.wikipedia.org/wiki/Globe_One_Digital"
+      }
+    ]
+  },
+  "rebrandnigeria.org": {
+    "domain": "rebrandnigeria.org",
+    "status": "No DNS record found",
+    "details": {},
+    "found_on": "2025-04-27T02:53:29.924130",
+    "sources": [
+      {
+        "url": "https://rebrandnigeria.org/2020/04/03/tiwalola-olanubi-jnr-our-rebrand-nigeria-ambassador/",
+        "text": "\"TIWALOLA OLANUBI JNR \u2013 OUR REBRAND NIGERIA AMBASSADOR | Rebrand Nigeria Campaign\"",
+        "article_title": "Tiwalola Olanubi",
+        "article_url": "https://en.wikipedia.org/wiki/Tiwalola_Olanubi"
+      }
+    ]
+  },
+  "libsearch.aut.ac.nz": {
+    "domain": "libsearch.aut.ac.nz",
+    "status": "Potentially available",
+    "details": {
+      "whois": "{\n  \"domain_name\": null,\n  \"registrar\": null,\n  \"updated_date\": null,\n  \"creation_date\": null,\n  \"expiration_date\": null,\n  \"name_servers\": null,\n  \"status\": \"ok https://icann.org/epp#ok\",\n  \"emails\": null,\n  \"name\": null,\n  \"address\": null,\n  \"city\": null,\n  \"registrant_postal_code\": null,\n  \"country\": null\n}"
+    },
+    "found_on": "2025-04-27T02:55:28.328302",
+    "sources": [
+      {
+        "url": "http://libsearch.aut.ac.nz",
+        "text": "\"AUT Library\"",
+        "article_title": "Marketing warfare strategies",
+        "article_url": "https://en.wikipedia.org/wiki/Marketing_warfare_strategies"
+      }
+    ]
+  },
+  "y2m.ae": {
+    "domain": "y2m.ae",
+    "status": "Potentially available",
+    "details": {
+      "whois": "{\n  \"domain_name\": \"y2m.ae\",\n  \"status\": \"ok\",\n  \"registrant_name\": \"BILAL ASGHAR\",\n  \"tech_name\": \"BILAL ASGHAR\"\n}"
+    },
+    "found_on": "2025-04-27T02:55:58.323553",
+    "sources": [
+      {
+        "url": "http://www.y2m.ae/blog/the-power-of-youth-and-how-to-make-the-most-of-it/",
+        "text": "\"The Power of Youth And How to Make the Most of It\"",
+        "article_title": "Youth marketing",
+        "article_url": "https://en.wikipedia.org/wiki/Youth_marketing"
+      }
+    ]
+  },
+  "stat.upd.edu.ph": {
+    "domain": "stat.upd.edu.ph",
+    "status": "Potentially available",
+    "details": {
+      "whois": "{\n  \"domain_name\": null,\n  \"registrar\": null,\n  \"registrar_url\": null,\n  \"reseller\": null,\n  \"whois_server\": null,\n  \"referral_url\": null,\n  \"updated_date\": null,\n  \"creation_date\": null,\n  \"expiration_date\": null,\n  \"name_servers\": null,\n  \"status\": null,\n  \"emails\": null,\n  \"dnssec\": null,\n  \"name\": null,\n  \"org\": null,\n  \"address\": null,\n  \"city\": null,\n  \"state\": null,\n  \"registrant_postal_code\": null,\n  \"country\": null\n}"
+    },
+    "found_on": "2025-04-27T02:56:05.055232",
+    "sources": [
+      {
+        "url": "http://www.stat.upd.edu.ph/Working%20Paper_2010_12.pdf",
+        "text": "the original",
+        "article_title": "Marketing activation",
+        "article_url": "https://en.wikipedia.org/wiki/Marketing_activation"
+      },
+      {
+        "url": "http://www.stat.upd.edu.ph/Working%20Paper_2010_15.pdf",
+        "text": "the original",
+        "article_title": "Marketing activation",
+        "article_url": "https://en.wikipedia.org/wiki/Marketing_activation"
+      }
+    ]
+  },
+  "ngnews.ca": {
+    "domain": "ngnews.ca",
+    "status": "Potentially available",
+    "details": {
+      "whois": "{\n  \"domain_name\": null,\n  \"whois_server\": null,\n  \"registrar\": null,\n  \"registrar_url\": null,\n  \"registrant_name\": null,\n  \"registrant_number\": null,\n  \"admin_name\": null,\n  \"status\": null,\n  \"emails\": null,\n  \"updated_date\": null,\n  \"creation_date\": null,\n  \"expiration_date\": null,\n  \"phone\": null,\n  \"fax\": null,\n  \"dnssec\": null,\n  \"name_servers\": null\n}"
+    },
+    "found_on": "2025-04-27T02:57:49.090531",
+    "sources": [
+      {
+        "url": "http://www.ngnews.ca/news/local/2016/9/28/web-com-holds-grand-opening-of-new-glasg-4652201.html",
+        "text": "\"Web.com holds grand opening of New Glasgow office\"",
+        "article_title": "Web.com",
+        "article_url": "https://en.wikipedia.org/wiki/Web.com"
+      }
+    ]
+  },
+  "analyticsbouncerate.com": {
+    "domain": "analyticsbouncerate.com",
+    "status": "No DNS record found",
+    "details": {},
+    "found_on": "2025-04-27T02:58:48.781439",
+    "sources": [
+      {
+        "url": "http://www.analyticsbouncerate.com/bounce-rate-web-portals-referential-content-sites/",
+        "text": "Search Intent: Understanding Bounce Rates of Web Portals and Referential Content Sites by Scott Offord",
+        "article_title": "Bounce rate",
+        "article_url": "https://en.wikipedia.org/wiki/Bounce_rate"
+      }
+    ]
+  },
+  "chmeds.ac.nz": {
+    "domain": "chmeds.ac.nz",
+    "status": "Potentially available",
+    "details": {
+      "whois": "{\n  \"domain_name\": null,\n  \"registrar\": null,\n  \"updated_date\": null,\n  \"creation_date\": null,\n  \"expiration_date\": null,\n  \"name_servers\": null,\n  \"status\": \"ok https://icann.org/epp#ok\",\n  \"emails\": null,\n  \"name\": null,\n  \"address\": null,\n  \"city\": null,\n  \"registrant_postal_code\": null,\n  \"country\": null\n}"
+    },
+    "found_on": "2025-04-27T03:00:33.420099",
+    "sources": [
+      {
+        "url": "http://www.chmeds.ac.nz/report.pdf",
+        "text": "the original",
+        "article_title": "Pharmaceutical marketing",
+        "article_url": "https://en.wikipedia.org/wiki/Pharmaceutical_marketing"
+      }
+    ]
+  },
+  "chime.plc.uk": {
+    "domain": "chime.plc.uk",
+    "status": "No DNS record found",
+    "details": {},
+    "found_on": "2025-04-27T03:02:10.912714",
+    "sources": [
+      {
+        "url": "http://www.chime.plc.uk/announcements/chime-final-of-mbo-new-director-of-board",
+        "text": "the original",
+        "article_title": "Chime Communications Limited",
+        "article_url": "https://en.wikipedia.org/wiki/Chime_Communications_Limited"
+      }
+    ]
+  },
+  "nst.com.my": {
+    "domain": "nst.com.my",
+    "status": "Potentially available",
+    "details": {
+      "whois": "{\n  \"domain_name\": null,\n  \"registrar\": null,\n  \"registrar_url\": null,\n  \"reseller\": null,\n  \"whois_server\": null,\n  \"referral_url\": null,\n  \"updated_date\": null,\n  \"creation_date\": null,\n  \"expiration_date\": null,\n  \"name_servers\": null,\n  \"status\": null,\n  \"emails\": null,\n  \"dnssec\": null,\n  \"name\": null,\n  \"org\": null,\n  \"address\": null,\n  \"city\": null,\n  \"state\": null,\n  \"registrant_postal_code\": null,\n  \"country\": null\n}"
+    },
+    "found_on": "2025-04-27T03:02:22.230072",
+    "sources": [
+      {
+        "url": "http://www.nst.com.my/latest/legoland-malaysia-dishes-out-variety-of-halal-foods-1.122408?localLinksEnabled=false",
+        "text": "\"Legoland Malaysia dishes out variety of Halal foods\"",
+        "article_title": "Legoland Malaysia Resort",
+        "article_url": "https://en.wikipedia.org/wiki/Legoland_Malaysia_Resort"
+      }
+    ]
+  },
+  "thestar.com.my": {
+    "domain": "thestar.com.my",
+    "status": "Potentially available",
+    "details": {
+      "whois": "{\n  \"domain_name\": null,\n  \"registrar\": null,\n  \"registrar_url\": null,\n  \"reseller\": null,\n  \"whois_server\": null,\n  \"referral_url\": null,\n  \"updated_date\": null,\n  \"creation_date\": null,\n  \"expiration_date\": null,\n  \"name_servers\": null,\n  \"status\": null,\n  \"emails\": null,\n  \"dnssec\": null,\n  \"name\": null,\n  \"org\": null,\n  \"address\": null,\n  \"city\": null,\n  \"state\": null,\n  \"registrant_postal_code\": null,\n  \"country\": null\n}"
+    },
+    "found_on": "2025-04-27T03:02:22.557627",
+    "sources": [
+      {
+        "url": "http://thestar.com.my/news/story.asp?file=%2F2012%2F9%2F22%2Fnation%2F20120922232638&sec=nation",
+        "text": "the original",
+        "article_title": "Legoland Malaysia Resort",
+        "article_url": "https://en.wikipedia.org/wiki/Legoland_Malaysia_Resort"
+      },
+      {
+        "url": "http://thestar.com.my/metro/story.asp?file=/2012/4/16/central/11097353&sec=central",
+        "text": "the original",
+        "article_title": "Maxis Communications",
+        "article_url": "https://en.wikipedia.org/wiki/Maxis_Communications"
+      }
+    ]
+  },
+  "thesundaily.my": {
+    "domain": "thesundaily.my",
+    "status": "Potentially available",
+    "details": {
+      "whois": "{\n  \"domain_name\": null,\n  \"registrar\": null,\n  \"registrar_url\": null,\n  \"reseller\": null,\n  \"whois_server\": null,\n  \"referral_url\": null,\n  \"updated_date\": null,\n  \"creation_date\": null,\n  \"expiration_date\": null,\n  \"name_servers\": null,\n  \"status\": null,\n  \"emails\": null,\n  \"dnssec\": null,\n  \"name\": null,\n  \"org\": null,\n  \"address\": null,\n  \"city\": null,\n  \"state\": null,\n  \"registrant_postal_code\": null,\n  \"country\": null\n}"
+    },
+    "found_on": "2025-04-27T03:02:22.587665",
+    "sources": [
+      {
+        "url": "http://www.thesundaily.my/news/359037",
+        "text": "the original",
+        "article_title": "Legoland Malaysia Resort",
+        "article_url": "https://en.wikipedia.org/wiki/Legoland_Malaysia_Resort"
+      }
+    ]
+  },
+  "tourism.gov.my": {
+    "domain": "tourism.gov.my",
+    "status": "Potentially available",
+    "details": {
+      "whois": "{\n  \"domain_name\": null,\n  \"registrar\": null,\n  \"registrar_url\": null,\n  \"reseller\": null,\n  \"whois_server\": null,\n  \"referral_url\": null,\n  \"updated_date\": null,\n  \"creation_date\": null,\n  \"expiration_date\": null,\n  \"name_servers\": null,\n  \"status\": null,\n  \"emails\": null,\n  \"dnssec\": null,\n  \"name\": null,\n  \"org\": null,\n  \"address\": null,\n  \"city\": null,\n  \"state\": null,\n  \"registrant_postal_code\": null,\n  \"country\": null\n}"
+    },
+    "found_on": "2025-04-27T03:02:22.892800",
+    "sources": [
+      {
+        "url": "http://www.tourism.gov.my/en/my/web-page/places/states-of-malaysia/johor/legoland",
+        "text": "the original",
+        "article_title": "Legoland Malaysia Resort",
+        "article_url": "https://en.wikipedia.org/wiki/Legoland_Malaysia_Resort"
+      }
+    ]
+  },
+  "legoland.com.my": {
+    "domain": "legoland.com.my",
+    "status": "Potentially available",
+    "details": {
+      "whois": "{\n  \"domain_name\": null,\n  \"registrar\": null,\n  \"registrar_url\": null,\n  \"reseller\": null,\n  \"whois_server\": null,\n  \"referral_url\": null,\n  \"updated_date\": null,\n  \"creation_date\": null,\n  \"expiration_date\": null,\n  \"name_servers\": null,\n  \"status\": null,\n  \"emails\": null,\n  \"dnssec\": null,\n  \"name\": null,\n  \"org\": null,\n  \"address\": null,\n  \"city\": null,\n  \"state\": null,\n  \"registrant_postal_code\": null,\n  \"country\": null\n}"
+    },
+    "found_on": "2025-04-27T03:02:25.096146",
+    "sources": [
+      {
+        "url": "https://www.legoland.com.my/about-us/press/sea-life-malaysia-is-now-officially-open-at-legoland-malaysia-resort/",
+        "text": "\"SEA LIFE Malaysia is now officially open at LEGOLAND\u00ae Malaysia Resort\"",
+        "article_title": "Legoland Malaysia Resort",
+        "article_url": "https://en.wikipedia.org/wiki/Legoland_Malaysia_Resort"
+      },
+      {
+        "url": "http://www.legoland.com.my/Documents/LEGOLAND%20MY/About/Press%20Release/PRESS%20RELEASE%20ENG_LLM%20%20DRH%20Announcement_FINAL%20(Tracked%20changes%2024%20April).pdf",
+        "text": "the original",
+        "article_title": "Legoland Malaysia Resort",
+        "article_url": "https://en.wikipedia.org/wiki/Legoland_Malaysia_Resort"
+      },
+      {
+        "url": "https://www.legoland.com.my/about-us/press/virtual-reality-roller-coaster--the-great-lego-race-officially-launches/",
+        "text": "\"LEGOLAND\u00ae Malaysia Resort's virtual reality roller coaster \"The Great LEGO Race\" officially launches\"",
+        "article_title": "Legoland Malaysia Resort",
+        "article_url": "https://en.wikipedia.org/wiki/Legoland_Malaysia_Resort"
+      },
+      {
+        "url": "http://www.legoland.com.my/Documents/LEGOLAND%20MY/Press%20Centre/Around%20the%20Park%20in%20Seven%20Days-%20Day%206%20LEGO%20Technic%2013.9.2012.pdf",
+        "text": "the original",
+        "article_title": "Legoland Malaysia Resort",
+        "article_url": "https://en.wikipedia.org/wiki/Legoland_Malaysia_Resort"
+      },
+      {
+        "url": "http://www.legoland.com.my/Documents/LEGOLAND%20MY/Press%20Centre/LEGOLAND%20BACKGROUNDER.pdf",
+        "text": "the original",
+        "article_title": "Legoland Malaysia Resort",
+        "article_url": "https://en.wikipedia.org/wiki/Legoland_Malaysia_Resort"
+      },
+      {
+        "url": "https://www.legoland.com.my/about-us/press/the-first-lego-ninjago-the-ride-in-asia/",
+        "text": "\"The First LEGO NINJAGO\u2122 The Ride in Asia comes to Malaysian Shores\"",
+        "article_title": "Legoland Malaysia Resort",
+        "article_url": "https://en.wikipedia.org/wiki/Legoland_Malaysia_Resort"
+      },
+      {
+        "url": "http://www.legoland.com.my/Documents/LEGOLAND%20MY/Press%20Centre/Around%20the%20Park%20in%20Seven%20Days-%20Day%205%20LEGO%20Kingdom%2011.9.2012.pdf",
+        "text": "the original",
+        "article_title": "Legoland Malaysia Resort",
+        "article_url": "https://en.wikipedia.org/wiki/Legoland_Malaysia_Resort"
+      },
+      {
+        "url": "https://www.legoland.com.my/about-us/press/visit-the-lego-star-wars-miniland-model-display-at-legoland/",
+        "text": "\"Visit the LEGO Star Wars Miniland Model Display at LEGOLAND as We Bid it Farewell!\"",
+        "article_title": "Legoland Malaysia Resort",
+        "article_url": "https://en.wikipedia.org/wiki/Legoland_Malaysia_Resort"
+      },
+      {
+        "url": "http://www.legoland.com.my/Documents/LEGOLAND%20MY/Press%20Centre/Around%20the%20Park%20in%20Seven%20Days-%20Day%204%20Imagination%2010.9.2012.pdf",
+        "text": "the original",
+        "article_title": "Legoland Malaysia Resort",
+        "article_url": "https://en.wikipedia.org/wiki/Legoland_Malaysia_Resort"
+      },
+      {
+        "url": "http://www.legoland.com.my/Documents/LEGOLAND%20MY/Press%20Centre/Around%20the%20Park%20in%20Seven%20Days-%20Day%201%20LEGO%20City%207.9.2012.pdf",
+        "text": "the original",
+        "article_title": "Legoland Malaysia Resort",
+        "article_url": "https://en.wikipedia.org/wiki/Legoland_Malaysia_Resort"
+      },
+      {
+        "url": "http://www.legoland.com.my/Documents/LEGOLAND%20MY/Press%20Centre/Around%20the%20Park%20in%20Seven%20Days-%20Day%202%20Miniland%207.9.2012.pdf",
+        "text": "the original",
+        "article_title": "Legoland Malaysia Resort",
+        "article_url": "https://en.wikipedia.org/wiki/Legoland_Malaysia_Resort"
+      },
+      {
+        "url": "https://www.legoland.com.my/about-us/press/sea-life-malaysia-is-set-to-open-on-9th-may-2019/",
+        "text": "\"SEA LIFE Malaysia is Set to Open on 9th May 2019\"",
+        "article_title": "Legoland Malaysia Resort",
+        "article_url": "https://en.wikipedia.org/wiki/Legoland_Malaysia_Resort"
+      }
+    ]
+  },
+  "wefra.life": {
+    "domain": "wefra.life",
+    "status": "Potentially available",
+    "details": {
+      "whois": "{\n  \"domain_name\": null,\n  \"registrant_name\": [\n    \"united-domains GmbH\",\n    \"united domains AG\"\n  ],\n  \"updated_date\": \"2025-03-29 20:21:20\",\n  \"creation_date\": \"2019-06-04 15:03:05\",\n  \"expiration_date\": \"2025-06-04 15:03:05\",\n  \"name_servers\": [\n    \"ns.udag.de\",\n    \"ns.udag.net\",\n    \"ns.udag.org\"\n  ],\n  \"emails\": [\n    \"abuse@united-domains.de\",\n    \"whois@united-domains.de\"\n  ]\n}"
+    },
+    "found_on": "2025-04-27T03:03:53.040661",
+    "sources": [
+      {
+        "url": "https://www.wefra.life/artikel/roi-steigern-durch-precision-marketing-1",
+        "text": "\"ROI steigern durch Precision Marketing\"",
+        "article_title": "Precision marketing",
+        "article_url": "https://en.wikipedia.org/wiki/Precision_marketing"
+      }
+    ]
+  },
+  "bancroftx.com": {
+    "domain": "bancroftx.com",
+    "status": "No DNS record found",
+    "details": {},
+    "found_on": "2025-04-27T03:07:44.024720",
+    "sources": [
+      {
+        "url": "https://bancroftx.com/bancroftx-buys-publicis-latam-marketing-and-content-agencies/",
+        "text": "\"BANCROFTx' buys Publicis Latam agencies: deal non-discloused\"",
+        "article_title": "Publicis",
+        "article_url": "https://en.wikipedia.org/wiki/Publicis"
+      }
+    ]
+  },
+  "pttoday.co.uk": {
+    "domain": "pttoday.co.uk",
+    "status": "Expired",
+    "details": {
+      "expiration_date": "2025-03-21 00:00:00",
+      "registrar": "GoDaddy.com, LLC. [Tag = GODADDY]"
+    },
+    "found_on": "2025-04-27T03:08:25.790619",
+    "sources": [
+      {
+        "url": "https://pttoday.co.uk/2020/04/06/stronger-together-cimspa-launches-digital-hub-to-support-the-sector-during-the-coronavirus-crisis/",
+        "text": "\"'Stronger Together' - CIMSPA Launches Digital Hub to Support the Sector During the Coronavirus Crisis\"",
+        "article_title": "Chartered Institute for the Management of Sport and Physical Activity",
+        "article_url": "https://en.wikipedia.org/wiki/Chartered_Institute_for_the_Management_of_Sport_and_Physical_Activity"
+      }
+    ]
+  },
+  "amcham.org.eg": {
+    "domain": "amcham.org.eg",
+    "status": "Potentially available",
+    "details": {
+      "whois": "{\n  \"domain_name\": null,\n  \"registrar\": null,\n  \"registrar_url\": null,\n  \"reseller\": null,\n  \"whois_server\": null,\n  \"referral_url\": null,\n  \"updated_date\": null,\n  \"creation_date\": null,\n  \"expiration_date\": null,\n  \"name_servers\": null,\n  \"status\": null,\n  \"emails\": null,\n  \"dnssec\": null,\n  \"name\": null,\n  \"org\": null,\n  \"address\": null,\n  \"city\": null,\n  \"state\": null,\n  \"registrant_postal_code\": null,\n  \"country\": null\n}"
+    },
+    "found_on": "2025-04-27T03:09:03.199872",
+    "sources": [
+      {
+        "url": "http://www.amcham.org.eg/Publications/BusinessMonthly/december%2007/CoverStory.asp",
+        "text": "Geomarketing",
+        "article_title": "Geomarketing",
+        "article_url": "https://en.wikipedia.org/wiki/Geomarketing"
+      }
+    ]
+  },
+  "suvideals.ooo": {
+    "domain": "suvideals.ooo",
+    "status": "Potentially available",
+    "details": {
+      "whois": "{\n  \"domain_name\": null,\n  \"registrar\": null,\n  \"registrar_url\": null,\n  \"reseller\": null,\n  \"whois_server\": null,\n  \"referral_url\": null,\n  \"updated_date\": null,\n  \"creation_date\": null,\n  \"expiration_date\": null,\n  \"name_servers\": null,\n  \"status\": null,\n  \"emails\": null,\n  \"dnssec\": null,\n  \"name\": null,\n  \"org\": null,\n  \"address\": null,\n  \"city\": null,\n  \"state\": null,\n  \"registrant_postal_code\": null,\n  \"country\": null\n}"
+    },
+    "found_on": "2025-04-27T03:10:26.572893",
+    "sources": [
+      {
+        "url": "https://www.suvideals.ooo/static/help/migration_message.pdf",
+        "text": "\"Migration Message\"",
+        "article_title": "Infibeam",
+        "article_url": "https://en.wikipedia.org/wiki/Infibeam"
+      }
+    ]
+  },
+  "nzaf.org.nz": {
+    "domain": "nzaf.org.nz",
+    "status": "Potentially available",
+    "details": {
+      "whois": "{\n  \"domain_name\": null,\n  \"registrar\": null,\n  \"updated_date\": null,\n  \"creation_date\": null,\n  \"expiration_date\": null,\n  \"name_servers\": null,\n  \"status\": \"ok https://icann.org/epp#ok\",\n  \"emails\": null,\n  \"name\": null,\n  \"address\": null,\n  \"city\": null,\n  \"registrant_postal_code\": null,\n  \"country\": null\n}"
+    },
+    "found_on": "2025-04-27T03:12:23.824078",
+    "sources": [
+      {
+        "url": "http://www.nzaf.org.nz/services-programmes/hiv-prevention-programmes/get-it-on",
+        "text": "the original",
+        "article_title": "LGBTQ marketing",
+        "article_url": "https://en.wikipedia.org/wiki/LGBTQ_marketing"
+      }
+    ]
+  },
+  "jollibee.com.ph": {
+    "domain": "jollibee.com.ph",
+    "status": "Potentially available",
+    "details": {
+      "whois": "{\n  \"domain_name\": null,\n  \"registrar\": null,\n  \"registrar_url\": null,\n  \"reseller\": null,\n  \"whois_server\": null,\n  \"referral_url\": null,\n  \"updated_date\": null,\n  \"creation_date\": null,\n  \"expiration_date\": null,\n  \"name_servers\": null,\n  \"status\": null,\n  \"emails\": null,\n  \"dnssec\": null,\n  \"name\": null,\n  \"org\": null,\n  \"address\": null,\n  \"city\": null,\n  \"state\": null,\n  \"registrant_postal_code\": null,\n  \"country\": null\n}"
+    },
+    "found_on": "2025-04-27T03:13:02.499477",
+    "sources": [
+      {
+        "url": "http://www.jollibee.com.ph",
+        "text": "www.jollibee.com.ph",
+        "article_title": "Jollibee",
+        "article_url": "https://en.wikipedia.org/wiki/Jollibee"
+      },
+      {
+        "url": "http://www.jollibee.com.ph/wp-content/uploads/2014/12/2012-Annual-Report.pdf",
+        "text": "the original",
+        "article_title": "Jollibee",
+        "article_url": "https://en.wikipedia.org/wiki/Jollibee"
+      },
+      {
+        "url": "http://www.jollibee.com.ph/about-us/milestones-history/",
+        "text": "the original",
+        "article_title": "Jollibee",
+        "article_url": "https://en.wikipedia.org/wiki/Jollibee"
+      },
+      {
+        "url": "https://www.jollibee.com.ph/franchise/",
+        "text": "\"Jollibbee Franchise\"",
+        "article_title": "Jollibee",
+        "article_url": "https://en.wikipedia.org/wiki/Jollibee"
+      },
+      {
+        "url": "https://www.jollibee.com.ph/",
+        "text": "Official website",
+        "article_title": "Jollibee",
+        "article_url": "https://en.wikipedia.org/wiki/Jollibee"
+      },
+      {
+        "url": "http://www.jollibee.com.ph/",
+        "text": "www.jollibee.com.ph",
+        "article_title": "Jollibee",
+        "article_url": "https://en.wikipedia.org/wiki/Jollibee"
+      }
+    ]
+  },
+  "primer.com.ph": {
+    "domain": "primer.com.ph",
+    "status": "Potentially available",
+    "details": {
+      "whois": "{\n  \"domain_name\": null,\n  \"registrar\": null,\n  \"registrar_url\": null,\n  \"reseller\": null,\n  \"whois_server\": null,\n  \"referral_url\": null,\n  \"updated_date\": null,\n  \"creation_date\": null,\n  \"expiration_date\": null,\n  \"name_servers\": null,\n  \"status\": null,\n  \"emails\": null,\n  \"dnssec\": null,\n  \"name\": null,\n  \"org\": null,\n  \"address\": null,\n  \"city\": null,\n  \"state\": null,\n  \"registrant_postal_code\": null,\n  \"country\": null\n}"
+    },
+    "found_on": "2025-04-27T03:13:08.783097",
+    "sources": [
+      {
+        "url": "http://primer.com.ph/business/2015/12/12/serving-a-jolly-nation-the-jollibee-success-story/",
+        "text": "\"Serving a Jolly Nation: The Jollibee Success Story\"",
+        "article_title": "Jollibee",
+        "article_url": "https://en.wikipedia.org/wiki/Jollibee"
+      }
+    ]
+  },
+  "thestandard.com.ph": {
+    "domain": "thestandard.com.ph",
+    "status": "Potentially available",
+    "details": {
+      "whois": "{\n  \"domain_name\": null,\n  \"registrar\": null,\n  \"registrar_url\": null,\n  \"reseller\": null,\n  \"whois_server\": null,\n  \"referral_url\": null,\n  \"updated_date\": null,\n  \"creation_date\": null,\n  \"expiration_date\": null,\n  \"name_servers\": null,\n  \"status\": null,\n  \"emails\": null,\n  \"dnssec\": null,\n  \"name\": null,\n  \"org\": null,\n  \"address\": null,\n  \"city\": null,\n  \"state\": null,\n  \"registrant_postal_code\": null,\n  \"country\": null\n}"
+    },
+    "found_on": "2025-04-27T03:13:09.243628",
+    "sources": [
+      {
+        "url": "http://thestandard.com.ph/business/190845/jollibee-expanding-to-uk-italy-oman.html",
+        "text": "the original",
+        "article_title": "Jollibee",
+        "article_url": "https://en.wikipedia.org/wiki/Jollibee"
+      }
+    ]
+  },
+  "malaya.com.ph": {
+    "domain": "malaya.com.ph",
+    "status": "Potentially available",
+    "details": {
+      "whois": "{\n  \"domain_name\": null,\n  \"registrar\": null,\n  \"registrar_url\": null,\n  \"reseller\": null,\n  \"whois_server\": null,\n  \"referral_url\": null,\n  \"updated_date\": null,\n  \"creation_date\": null,\n  \"expiration_date\": null,\n  \"name_servers\": null,\n  \"status\": null,\n  \"emails\": null,\n  \"dnssec\": null,\n  \"name\": null,\n  \"org\": null,\n  \"address\": null,\n  \"city\": null,\n  \"state\": null,\n  \"registrant_postal_code\": null,\n  \"country\": null\n}"
+    },
+    "found_on": "2025-04-27T03:13:09.508024",
+    "sources": [
+      {
+        "url": "http://malaya.com.ph/business-news/living/jollibee-lands-europe",
+        "text": "the original",
+        "article_title": "Jollibee",
+        "article_url": "https://en.wikipedia.org/wiki/Jollibee"
+      }
+    ]
+  },
+  "stoppress.co.nz": {
+    "domain": "stoppress.co.nz",
+    "status": "Potentially available",
+    "details": {
+      "whois": "{\n  \"domain_name\": null,\n  \"registrar\": null,\n  \"updated_date\": null,\n  \"creation_date\": null,\n  \"expiration_date\": null,\n  \"name_servers\": null,\n  \"status\": \"ok https://icann.org/epp#ok\",\n  \"emails\": null,\n  \"name\": null,\n  \"address\": null,\n  \"city\": null,\n  \"registrant_postal_code\": null,\n  \"country\": null\n}"
+    },
+    "found_on": "2025-04-27T03:14:14.406593",
+    "sources": [
+      {
+        "url": "http://stoppress.co.nz/news/little-shop-dollars-new-world-celebrates-success-its-tiny-promotion",
+        "text": "http://stoppress.co.nz/news/little-shop-dollars-new-world-celebrates-success-its-tiny-promotion",
+        "article_title": "Premium (marketing)",
+        "article_url": "https://en.wikipedia.org/wiki/Premium_(marketing)"
+      }
+    ]
+  },
+  "marketingaudit.agency": {
+    "domain": "marketingaudit.agency",
+    "status": "Potentially available",
+    "details": {
+      "whois": "{\n  \"domain_name\": null,\n  \"registrar\": null,\n  \"registrar_url\": null,\n  \"reseller\": null,\n  \"whois_server\": null,\n  \"referral_url\": null,\n  \"updated_date\": null,\n  \"creation_date\": null,\n  \"expiration_date\": null,\n  \"name_servers\": null,\n  \"status\": null,\n  \"emails\": null,\n  \"dnssec\": null,\n  \"name\": null,\n  \"org\": null,\n  \"address\": null,\n  \"city\": null,\n  \"state\": null,\n  \"registrant_postal_code\": null,\n  \"country\": null\n}"
+    },
+    "found_on": "2025-04-27T03:16:44.370389",
+    "sources": [
+      {
+        "url": "https://marketingaudit.agency/how-to-choose-the-right-sales-representatives/",
+        "text": "\"How To Choose The Right Sales Representatives\"",
+        "article_title": "Sales",
+        "article_url": "https://en.wikipedia.org/wiki/Sales"
+      }
+    ]
+  },
+  "bnews.vn": {
+    "domain": "bnews.vn",
+    "status": "Potentially available",
+    "details": {
+      "whois": "{\n  \"domain_name\": null,\n  \"registrar\": null,\n  \"registrar_url\": null,\n  \"reseller\": null,\n  \"whois_server\": null,\n  \"referral_url\": null,\n  \"updated_date\": null,\n  \"creation_date\": null,\n  \"expiration_date\": null,\n  \"name_servers\": null,\n  \"status\": null,\n  \"emails\": null,\n  \"dnssec\": null,\n  \"name\": null,\n  \"org\": null,\n  \"address\": null,\n  \"city\": null,\n  \"state\": null,\n  \"registrant_postal_code\": null,\n  \"country\": null\n}"
+    },
+    "found_on": "2025-04-27T03:18:59.407852",
+    "sources": [
+      {
+        "url": "https://bnews.vn/giai-phap-quan-tri-nhan-su-acheckin-duoc-nhan-danh-hieu-sao-khue-2021/193503.html",
+        "text": "\"Bnews \u2013 Tin t\u1ee9c kinh t\u1ebf m\u1edbi nh\u1ea5t, c\u1eadp nh\u1eadt 24h\"",
+        "article_title": "Appota Corporation",
+        "article_url": "https://en.wikipedia.org/wiki/Appota_Corporation"
+      }
+    ]
+  },
+  "dantri.com.vn": {
+    "domain": "dantri.com.vn",
+    "status": "Potentially available",
+    "details": {
+      "whois": "{\n  \"domain_name\": null,\n  \"registrar\": null,\n  \"registrar_url\": null,\n  \"reseller\": null,\n  \"whois_server\": null,\n  \"referral_url\": null,\n  \"updated_date\": null,\n  \"creation_date\": null,\n  \"expiration_date\": null,\n  \"name_servers\": null,\n  \"status\": null,\n  \"emails\": null,\n  \"dnssec\": null,\n  \"name\": null,\n  \"org\": null,\n  \"address\": null,\n  \"city\": null,\n  \"state\": null,\n  \"registrant_postal_code\": null,\n  \"country\": null\n}"
+    },
+    "found_on": "2025-04-27T03:19:00.447432",
+    "sources": [
+      {
+        "url": "https://dantri.com.vn/may-tinh-di-dong/com-con-duong-dan-toi-thanh-cong-20160920095158594.htm",
+        "text": "\".com \u2013 Con \u0111\u01b0\u1eddng d\u1eabn t\u1edbi th\u00e0nh c\u00f4ng\"",
+        "article_title": "Appota Corporation",
+        "article_url": "https://en.wikipedia.org/wiki/Appota_Corporation"
+      }
+    ]
+  },
+  "bima.co.uk:443": {
+    "domain": "bima.co.uk:443",
+    "status": "Potentially available",
+    "details": {
+      "whois": "{\n  \"domain_name\": null,\n  \"registrar\": null,\n  \"registrar_url\": null,\n  \"reseller\": null,\n  \"whois_server\": null,\n  \"referral_url\": null,\n  \"updated_date\": null,\n  \"creation_date\": null,\n  \"expiration_date\": null,\n  \"name_servers\": null,\n  \"status\": null,\n  \"emails\": null,\n  \"dnssec\": null,\n  \"name\": null,\n  \"org\": null,\n  \"address\": null,\n  \"city\": null,\n  \"state\": null,\n  \"registrant_postal_code\": null,\n  \"country\": null\n}"
+    },
+    "found_on": "2025-04-27T03:21:25.381054",
+    "sources": [
+      {
+        "url": "https://www.bima.co.uk:443/en/Article/2019/07-Jul-2019/Announcing-the-BIMA-Awards-2019-Finalists",
+        "text": "\"Announcing the BIMA Awards 2019 Finalists\"",
+        "article_title": "Good-Loop",
+        "article_url": "https://en.wikipedia.org/wiki/Good-Loop"
+      }
+    ]
+  },
+  "jurnalapps.co.id": {
+    "domain": "jurnalapps.co.id",
+    "status": "Potentially available",
+    "details": {
+      "whois": "{\n  \"domain_id\": null,\n  \"domain_name\": null,\n  \"creation_date\": null,\n  \"expiration_date\": null,\n  \"updated_date\": null,\n  \"dnssec\": null,\n  \"registrar\": null,\n  \"registrar_city\": null,\n  \"registrar_postal_code\": null,\n  \"registrar_country\": null,\n  \"registrar_phone\": null,\n  \"registrar_email\": null,\n  \"status\": null,\n  \"registrant_id\": null,\n  \"registrant_name\": null,\n  \"registrant_org\": null,\n  \"registrant_address\": null,\n  \"registrant_address2\": null,\n  \"registrant_address3\": null,\n  \"registrant_city\": null,\n  \"registrant_country\": null,\n  \"registrant_postal_code\": null,\n  \"registrant_phone\": null,\n  \"registrant_fax\": null,\n  \"registrant_email\": null,\n  \"name_servers\": null\n}"
+    },
+    "found_on": "2025-04-27T03:22:52.610217",
+    "sources": [
+      {
+        "url": "https://jurnalapps.co.id/primer-pelajaran-marketing-dari-google-12211",
+        "text": "\"Primer, Pelajaran Marketing dari Google\"",
+        "article_title": "Google Primer",
+        "article_url": "https://en.wikipedia.org/wiki/Google_Primer"
+      }
+    ]
+  },
+  "pmaa-awards.net": {
+    "domain": "pmaa-awards.net",
+    "status": "No DNS record found",
+    "details": {},
+    "found_on": "2025-04-27T03:23:27.601531",
+    "sources": [
+      {
+        "url": "http://www.pmaa-awards.net/documents/5.%20Best%20Digital%20Communications%20Campaign.pdf",
+        "text": "the original",
+        "article_title": "Hungama Digital Media Entertainment",
+        "article_url": "https://en.wikipedia.org/wiki/Hungama_Digital_Media_Entertainment"
+      }
+    ]
+  },
+  "casualarts.net": {
+    "domain": "casualarts.net",
+    "status": "No DNS record found",
+    "details": {},
+    "found_on": "2025-04-27T03:24:12.174611",
+    "sources": [
+      {
+        "url": "http://www.casualarts.net/Liberation%20Marketing.pdf",
+        "text": "Liberation Marketing and the Culture Trust",
+        "article_title": "Marketing ethics",
+        "article_url": "https://en.wikipedia.org/wiki/Marketing_ethics"
+      }
+    ]
+  },
+  "quoteendquote.ca": {
+    "domain": "quoteendquote.ca",
+    "status": "Expired",
+    "details": {
+      "expiration_date": "2025-03-05 05:00:00",
+      "registrar": "DomainPeople, Inc."
+    },
+    "found_on": "2025-04-27T03:25:41.916992",
+    "sources": [
+      {
+        "url": "http://quoteendquote.ca/multicultural-marketing-and-the-changing-face-of-the-canadian-consumer-new-times-call-for-new-strategies/",
+        "text": "Multicultural Marketing and the Changing Face of the Canadian Consumer: New Times-Call New Strategies",
+        "article_title": "Multicultural marketing",
+        "article_url": "https://en.wikipedia.org/wiki/Multicultural_marketing"
+      }
+    ]
+  },
+  "dol.govt.nz": {
+    "domain": "dol.govt.nz",
+    "status": "Potentially available",
+    "details": {
+      "whois": "{\n  \"domain_name\": null,\n  \"registrar\": null,\n  \"updated_date\": null,\n  \"creation_date\": null,\n  \"expiration_date\": null,\n  \"name_servers\": null,\n  \"status\": null,\n  \"emails\": null,\n  \"name\": null,\n  \"address\": null,\n  \"city\": null,\n  \"registrant_postal_code\": null,\n  \"country\": null\n}"
+    },
+    "found_on": "2025-04-27T03:26:30.383488",
+    "sources": [
+      {
+        "url": "http://www.dol.govt.nz/worklife/case12.asp",
+        "text": "Case Study - Stephan Spencer",
+        "article_title": "Netconcepts",
+        "article_url": "https://en.wikipedia.org/wiki/Netconcepts"
+      }
+    ]
+  },
+  "business.auckland.ac.nz": {
+    "domain": "business.auckland.ac.nz",
+    "status": "Potentially available",
+    "details": {
+      "whois": "{\n  \"domain_name\": null,\n  \"registrar\": null,\n  \"updated_date\": null,\n  \"creation_date\": null,\n  \"expiration_date\": null,\n  \"name_servers\": null,\n  \"status\": \"ok https://icann.org/epp#ok\",\n  \"emails\": null,\n  \"name\": null,\n  \"address\": null,\n  \"city\": null,\n  \"registrant_postal_code\": null,\n  \"country\": null\n}"
+    },
+    "found_on": "2025-04-27T03:26:35.226821",
+    "sources": [
+      {
+        "url": "https://www.business.auckland.ac.nz/en/about/news-and-media/news-stories/uabs-monthly-newsletter/uabs-monthly-newsletter-2014/02/18/video-transcript-allen-qu-on-staying-relevant-in-china.html",
+        "text": "\"Video transcript: Allen Qu on staying relevant in China\"",
+        "article_title": "Netconcepts",
+        "article_url": "https://en.wikipedia.org/wiki/Netconcepts"
+      }
+    ]
+  },
+  "dealwatchblog.com": {
+    "domain": "dealwatchblog.com",
+    "status": "No DNS record found",
+    "details": {},
+    "found_on": "2025-04-27T03:27:54.065195",
+    "sources": [
+      {
+        "url": "http://www.dealwatchblog.com/post/2009/07/15/DLA-Piper-and-Greenberg-lawyers-ink-15-million-dollar-private-equity-deal.aspx",
+        "text": "the original",
+        "article_title": "Definition 6",
+        "article_url": "https://en.wikipedia.org/wiki/Definition_6"
+      }
+    ]
+  },
+  "chaplinsource.com": {
+    "domain": "chaplinsource.com",
+    "status": "No DNS record found",
+    "details": {},
+    "found_on": "2025-04-27T03:39:14.817809",
+    "sources": [
+      {
+        "url": "https://chaplinsource.com/post/163375412009/contest-design-a-poster-for-tom-chaplin",
+        "text": "\"CONTEST: Design a poster for Tom Chaplin\"",
+        "article_title": "Creative Allies",
+        "article_url": "https://en.wikipedia.org/wiki/Creative_Allies"
+      }
+    ]
+  },
+  "164.100.117.97": {
+    "domain": "164.100.117.97",
+    "status": "Potentially available",
+    "details": {
+      "whois": "{\n  \"domain_name\": null,\n  \"registrar\": null,\n  \"registrar_url\": null,\n  \"reseller\": null,\n  \"whois_server\": null,\n  \"referral_url\": null,\n  \"updated_date\": null,\n  \"creation_date\": null,\n  \"expiration_date\": null,\n  \"name_servers\": null,\n  \"status\": \"ALLOCATED NON-PORTABLE\",\n  \"emails\": [\n    \"search-apnic-not-arin@apnic.net\",\n    \"'abuse@nic.in\",\n    \"abuse@nic.in\",\n    \"support-ndcsp@nic.in\"\n  ],\n  \"dnssec\": null,\n  \"name\": null,\n  \"org\": null,\n  \"address\": null,\n  \"city\": null,\n  \"state\": null,\n  \"registrant_postal_code\": null,\n  \"country\": null\n}"
+    },
+    "found_on": "2025-04-27T03:39:38.259914",
+    "sources": [
+      {
+        "url": "http://164.100.117.97/WriteReadData/userfiles/eci%20nvd%20brochure.pdf",
+        "text": "the original",
+        "article_title": "Josh Talks",
+        "article_url": "https://en.wikipedia.org/wiki/Josh_Talks"
+      }
+    ]
+  },
+  "nergeticonlinemarketing.com": {
+    "domain": "nergeticonlinemarketing.com",
+    "status": "No DNS record found",
+    "details": {},
+    "found_on": "2025-04-27T03:44:18.550636",
+    "sources": [
+      {
+        "url": "http://www.nergeticonlinemarketing.com/index.php/online-marketing-blog/75-what-is-viral-marketing",
+        "text": "the original",
+        "article_title": "AllAdvantage",
+        "article_url": "https://en.wikipedia.org/wiki/AllAdvantage"
+      }
+    ]
+  },
+  "sk-sagepub-com.": {
+    "domain": "sk-sagepub-com.",
+    "status": "Potentially available",
+    "details": {
+      "whois": "{\n  \"domain_name\": null,\n  \"registrar\": null,\n  \"registrar_url\": null,\n  \"reseller\": null,\n  \"whois_server\": null,\n  \"referral_url\": null,\n  \"updated_date\": null,\n  \"creation_date\": null,\n  \"expiration_date\": null,\n  \"name_servers\": null,\n  \"status\": null,\n  \"emails\": null,\n  \"dnssec\": null,\n  \"name\": null,\n  \"org\": null,\n  \"address\": null,\n  \"city\": null,\n  \"state\": null,\n  \"registrant_postal_code\": null,\n  \"country\": null\n}"
+    },
+    "found_on": "2025-04-27T03:48:04.681556",
+    "sources": [
+      {
+        "url": "https://sk-sagepub-com./cases/entrepreneurship-fashion-age-social-media-case-of-jacquemus",
+        "text": "\"The Entrepreneurship of Fashion in an Age of Social Media: The Case of Jacquemus\"",
+        "article_title": "Brand awareness",
+        "article_url": "https://en.wikipedia.org/wiki/Brand_awareness"
+      }
+    ]
+  },
+  "skill-ground.com": {
+    "domain": "skill-ground.com",
+    "status": "No DNS record found",
+    "details": {},
+    "found_on": "2025-04-27T03:48:39.951060",
+    "sources": [
+      {
+        "url": "http://skill-ground.com/%D1%83%D1%81%D0%BF%D0%B5%D1%88%D0%BD%D0%B8%D1%8F%D1%82-%D0%BE%D0%BD%D0%BB%D0%B0%D0%B9%D0%BD-%D0%B1%D0%B8%D0%B7%D0%BD%D0%B5%D1%81-%D1%81%D1%8A%D0%B2%D0%B5%D1%82%D0%B8-%D0%BE%D1%82-%D0%BF%D0%B5%D1%82/",
+        "text": "\"\u0423\u0441\u043f\u0435\u0448\u043d\u0438\u044f\u0442 \u043e\u043d\u043b\u0430\u0439\u043d \u0431\u0438\u0437\u043d\u0435\u0441. \u0421\u044a\u0432\u0435\u0442\u0438 \u043e\u0442 \u041f\u0435\u0442\u044a\u0440 \u0414\u044f\u043a\u0441\u043e\u0432\"",
+        "article_title": "Petar Dyaksov",
+        "article_url": "https://en.wikipedia.org/wiki/Petar_Dyaksov"
+      }
+    ]
+  },
+  "fixondennis.com": {
+    "domain": "fixondennis.com",
+    "status": "No DNS record found",
+    "details": {},
+    "found_on": "2025-04-27T03:51:30.183812",
+    "sources": [
+      {
+        "url": "https://fixondennis.com/achiever-of-the-month-meet-edward-asare-a-digital-marketer-at-uba-and-an-award-winning-blogger/",
+        "text": "\"Achiever Of The Month: Meet Edward Asare, A Digital Marketer At UBA and an Award Winning Blogger\"",
+        "article_title": "Edward Asare",
+        "article_url": "https://en.wikipedia.org/wiki/Edward_Asare"
+      }
+    ]
+  },
+  "assoc.hec-ulg.be": {
+    "domain": "assoc.hec-ulg.be",
+    "status": "Potentially available",
+    "details": {
+      "whois": "{\n  \"domain_name\": \"hec-ulg.be\",\n  \"status\": \"AVAILABLE\",\n  \"name\": null,\n  \"org\": null,\n  \"phone\": null,\n  \"fax\": null,\n  \"email\": null,\n  \"creation_date\": null,\n  \"name_servers\": null\n}"
+    },
+    "found_on": "2025-04-27T03:56:03.046713",
+    "sources": [
+      {
+        "url": "http://assoc.hec-ulg.be",
+        "text": "HEC-ULg Students Association",
+        "article_title": "HEC Li\u00e8ge Management School",
+        "article_url": "https://en.wikipedia.org/wiki/HEC_Li\u00e8ge_Management_School"
+      }
+    ]
+  },
+  "ulg.ac.be": {
+    "domain": "ulg.ac.be",
+    "status": "Potentially available",
+    "details": {
+      "whois": "{\n  \"domain_name\": \"ulg.ac.be\",\n  \"status\": \"NOT ALLOWED\",\n  \"name\": null,\n  \"org\": null,\n  \"phone\": null,\n  \"fax\": null,\n  \"email\": null,\n  \"creation_date\": null,\n  \"name_servers\": null\n}"
+    },
+    "found_on": "2025-04-27T03:56:03.953871",
+    "sources": [
+      {
+        "url": "https://www.ulg.ac.be/upload/docs/application/pdf/2017-03/uliege-chartegraphique-2017.pdf",
+        "text": "\"Visual Identity Guidelines\"",
+        "article_title": "HEC Li\u00e8ge Management School",
+        "article_url": "https://en.wikipedia.org/wiki/HEC_Li\u00e8ge_Management_School"
+      }
+    ]
+  },
+  "topstudybelgium.be": {
+    "domain": "topstudybelgium.be",
+    "status": "Potentially available",
+    "details": {
+      "whois": "{\n  \"domain_name\": \"topstudybelgium.be\",\n  \"status\": \"NOT AVAILABLE\",\n  \"name\": \"Registrar.eu\",\n  \"org\": null,\n  \"phone\": null,\n  \"fax\": null,\n  \"email\": null,\n  \"creation_date\": \"2024-12-22 00:00:00\",\n  \"name_servers\": \"arushi.ns.cloudflare.com\\r\\n\\trocco.ns.cloudflare.com\"\n}"
+    },
+    "found_on": "2025-04-27T03:56:05.470805",
+    "sources": [
+      {
+        "url": "http://www.topstudybelgium.be/en/higher-education-institutions/hec-management-school-university-of-li\u00e8ge.aspx",
+        "text": "\"HEC Management School - University of Liege\"",
+        "article_title": "HEC Li\u00e8ge Management School",
+        "article_url": "https://en.wikipedia.org/wiki/HEC_Li\u00e8ge_Management_School"
+      }
+    ]
+  },
+  "ism.lt": {
+    "domain": "ism.lt",
+    "status": "Potentially available",
+    "details": {
+      "whois": "{\n  \"domain_name\": \"ism.lt\",\n  \"expiration_date\": \"2026-01-28 00:00:00\",\n  \"creation_date\": \"2000-01-28 00:00:00\",\n  \"status\": \"registered\"\n}"
+    },
+    "found_on": "2025-04-27T03:56:07.031141",
+    "sources": [
+      {
+        "url": "http://www.ism.lt/index.php/corporate_page/bottom_menu/international_relations/partner_universities/belgium__university_of_liege/79414",
+        "text": "the original",
+        "article_title": "HEC Li\u00e8ge Management School",
+        "article_url": "https://en.wikipedia.org/wiki/HEC_Li\u00e8ge_Management_School"
+      }
+    ]
+  },
+  "gadgetsmagazine.com.ph": {
+    "domain": "gadgetsmagazine.com.ph",
+    "status": "Potentially available",
+    "details": {
+      "whois": "{\n  \"domain_name\": null,\n  \"registrar\": null,\n  \"registrar_url\": null,\n  \"reseller\": null,\n  \"whois_server\": null,\n  \"referral_url\": null,\n  \"updated_date\": null,\n  \"creation_date\": null,\n  \"expiration_date\": null,\n  \"name_servers\": null,\n  \"status\": null,\n  \"emails\": null,\n  \"dnssec\": null,\n  \"name\": null,\n  \"org\": null,\n  \"address\": null,\n  \"city\": null,\n  \"state\": null,\n  \"registrant_postal_code\": null,\n  \"country\": null\n}"
+    },
+    "found_on": "2025-04-27T03:56:26.452892",
+    "sources": [
+      {
+        "url": "http://www.gadgetsmagazine.com.ph/apps-and-websites/freelancer-com-launches-outsourcing-platform-in-the-philippines.html",
+        "text": "Freelancer.com launches outsourcing platform in the Philippines",
+        "article_title": "Freelancer.com",
+        "article_url": "https://en.wikipedia.org/wiki/Freelancer.com"
+      }
+    ]
+  },
+  "omit-solutions.com": {
+    "domain": "omit-solutions.com",
+    "status": "No DNS record found",
+    "details": {},
+    "found_on": "2025-04-27T03:56:49.365144",
+    "sources": [
+      {
+        "url": "http://omit-solutions.com/sem.php",
+        "text": "SEM Specialists @ OM IT Solutions",
+        "article_title": "Covario",
+        "article_url": "https://en.wikipedia.org/wiki/Covario"
+      }
+    ]
+  },
+  "donteraseyourqueerfuture.org": {
+    "domain": "donteraseyourqueerfuture.org",
+    "status": "No DNS record found",
+    "details": {},
+    "found_on": "2025-04-27T03:58:40.973227",
+    "sources": [
+      {
+        "url": "http://donteraseyourqueerfuture.org",
+        "text": "the original",
+        "article_title": "The Trevor Project",
+        "article_url": "https://en.wikipedia.org/wiki/The_Trevor_Project"
+      }
+    ]
+  },
+  "finansavisen.no": {
+    "domain": "finansavisen.no",
+    "status": "Potentially available",
+    "details": {
+      "whois": "{\n  \"domain_name\": \"finansavisen.no\",\n  \"creation_date\": \"1999-11-15 00:00:00\",\n  \"updated_date\": \"2024-11-15 00:00:00\"\n}"
+    },
+    "found_on": "2025-04-27T04:00:53.369426",
+    "sources": [
+      {
+        "url": "https://finansavisen.no/news/4256/242/Nordmenn-er-ledende-p%C3%A5-hotellbooking-i-Afrika",
+        "text": "\"Nordmenn er ledende p\u00e5 hotellbooking i Afrika\"",
+        "article_title": "HotelOnline",
+        "article_url": "https://en.wikipedia.org/wiki/HotelOnline"
+      }
+    ]
+  },
+  "clodhoppers.tv": {
+    "domain": "clodhoppers.tv",
+    "status": "Potentially available",
+    "details": {
+      "whois": "{\n  \"domain_name\": null,\n  \"registrar\": null,\n  \"registrar_url\": null,\n  \"reseller\": null,\n  \"whois_server\": null,\n  \"referral_url\": null,\n  \"updated_date\": null,\n  \"creation_date\": null,\n  \"expiration_date\": null,\n  \"name_servers\": null,\n  \"status\": null,\n  \"emails\": null,\n  \"dnssec\": null,\n  \"name\": null,\n  \"org\": null,\n  \"address\": null,\n  \"city\": null,\n  \"state\": null,\n  \"registrant_postal_code\": null,\n  \"country\": null\n}"
+    },
+    "found_on": "2025-04-27T04:01:06.697339",
+    "sources": [
+      {
+        "url": "http://www.clodhoppers.tv/about.html",
+        "text": "the original",
+        "article_title": "List of corporations based in Winnipeg",
+        "article_url": "https://en.wikipedia.org/wiki/List_of_corporations_based_in_Winnipeg"
+      }
+    ]
+  },
+  "vikramjits.com": {
+    "domain": "vikramjits.com",
+    "status": "No DNS record found",
+    "details": {},
+    "found_on": "2025-04-27T04:01:55.309406",
+    "sources": [
+      {
+        "url": "http://vikramjits.com",
+        "text": "vikramjits.com",
+        "article_title": "Vikramjit Singh Rooprai",
+        "article_url": "https://en.wikipedia.org/wiki/Vikramjit_Singh_Rooprai"
+      },
+      {
+        "url": "http://www.vikramjits.com/",
+        "text": "Official website",
+        "article_title": "Vikramjit Singh Rooprai",
+        "article_url": "https://en.wikipedia.org/wiki/Vikramjit_Singh_Rooprai"
+      }
+    ]
+  },
+  "dl.ueb.edu.vn": {
+    "domain": "dl.ueb.edu.vn",
+    "status": "Potentially available",
+    "details": {
+      "whois": "{\n  \"domain_name\": null,\n  \"registrar\": null,\n  \"registrar_url\": null,\n  \"reseller\": null,\n  \"whois_server\": null,\n  \"referral_url\": null,\n  \"updated_date\": null,\n  \"creation_date\": null,\n  \"expiration_date\": null,\n  \"name_servers\": null,\n  \"status\": null,\n  \"emails\": null,\n  \"dnssec\": null,\n  \"name\": null,\n  \"org\": null,\n  \"address\": null,\n  \"city\": null,\n  \"state\": null,\n  \"registrant_postal_code\": null,\n  \"country\": null\n}"
+    },
+    "found_on": "2025-04-27T04:02:16.258304",
+    "sources": [
+      {
+        "url": "http://dl.ueb.edu.vn/bitstream/1247/2250/1/Marketing_Management_-_Millenium_Edition.pdf",
+        "text": "the original",
+        "article_title": "Buyer decision process",
+        "article_url": "https://en.wikipedia.org/wiki/Buyer_decision_process"
+      }
+    ]
+  },
+  "selectfranchiselist.com": {
+    "domain": "selectfranchiselist.com",
+    "status": "No DNS record found",
+    "details": {},
+    "found_on": "2025-04-27T04:02:35.061462",
+    "sources": [
+      {
+        "url": "http://www.selectfranchiselist.com/franchise/Matco-Tools/",
+        "text": "the original",
+        "article_title": "Matco Tools",
+        "article_url": "https://en.wikipedia.org/wiki/Matco_Tools"
+      }
+    ]
+  },
+  "computerworld.es": {
+    "domain": "computerworld.es",
+    "status": "Potentially available",
+    "details": {
+      "whois": "{\n  \"domain_name\": null,\n  \"registrar\": null,\n  \"registrar_url\": null,\n  \"reseller\": null,\n  \"whois_server\": null,\n  \"referral_url\": null,\n  \"updated_date\": null,\n  \"creation_date\": null,\n  \"expiration_date\": null,\n  \"name_servers\": null,\n  \"status\": null,\n  \"emails\": null,\n  \"dnssec\": null,\n  \"name\": null,\n  \"org\": null,\n  \"address\": null,\n  \"city\": null,\n  \"state\": null,\n  \"registrant_postal_code\": null,\n  \"country\": null\n}"
+    },
+    "found_on": "2025-04-27T04:06:27.105530",
+    "sources": [
+      {
+        "url": "https://www.computerworld.es/archive/miguel-maria-latasa-alzuri-director-gerente-de-informatica-el-corte-ingles",
+        "text": "\"Miguel Mar\u00eda Latasa Alzuri, Director Gerente de Inform\u00e1tica El Corte Ingl\u00e9s\"",
+        "article_title": "VASS (digital)",
+        "article_url": "https://en.wikipedia.org/wiki/VASS_(digital)"
+      }
+    ]
+  },
+  "ceim.es": {
+    "domain": "ceim.es",
+    "status": "Potentially available",
+    "details": {
+      "whois": "{\n  \"domain_name\": null,\n  \"registrar\": null,\n  \"registrar_url\": null,\n  \"reseller\": null,\n  \"whois_server\": null,\n  \"referral_url\": null,\n  \"updated_date\": null,\n  \"creation_date\": null,\n  \"expiration_date\": null,\n  \"name_servers\": null,\n  \"status\": null,\n  \"emails\": null,\n  \"dnssec\": null,\n  \"name\": null,\n  \"org\": null,\n  \"address\": null,\n  \"city\": null,\n  \"state\": null,\n  \"registrant_postal_code\": null,\n  \"country\": null\n}"
+    },
+    "found_on": "2025-04-27T04:07:17.711543",
+    "sources": [
+      {
+        "url": "https://ceim.es/actualidad/daniel-lacalle-miguel-garrido-empresarios-familiares-coinciden-empresas-enfrentan-problema-solvencia-atajar-forma-urgente",
+        "text": "\"Daniel Lacalle, Miguel Garrido y los empresarios familiares coinciden en que las empresas se enfrentan a un problema de solvencia que hay que atajar de forma urgente para evitar su quiebra\"",
+        "article_title": "Juanjo L\u00f3pez",
+        "article_url": "https://en.wikipedia.org/wiki/Juanjo_L\u00f3pez"
+      }
+    ]
+  },
+  "udima.es": {
+    "domain": "udima.es",
+    "status": "Potentially available",
+    "details": {
+      "whois": "{\n  \"domain_name\": null,\n  \"registrar\": null,\n  \"registrar_url\": null,\n  \"reseller\": null,\n  \"whois_server\": null,\n  \"referral_url\": null,\n  \"updated_date\": null,\n  \"creation_date\": null,\n  \"expiration_date\": null,\n  \"name_servers\": null,\n  \"status\": null,\n  \"emails\": null,\n  \"dnssec\": null,\n  \"name\": null,\n  \"org\": null,\n  \"address\": null,\n  \"city\": null,\n  \"state\": null,\n  \"registrant_postal_code\": null,\n  \"country\": null\n}"
+    },
+    "found_on": "2025-04-27T04:07:18.502764",
+    "sources": [
+      {
+        "url": "https://www.udima.es/es/juan-jose-lopez-nuevo-presidente-comision-emprendedores-ceim.html",
+        "text": "\"El profesor Juan Jos\u00e9 L\u00f3pez, presidente de la Comisi\u00f3n de Emprendedores de CEIM\"",
+        "article_title": "Juanjo L\u00f3pez",
+        "article_url": "https://en.wikipedia.org/wiki/Juanjo_L\u00f3pez"
+      }
+    ]
+  },
+  "startupatwork.org": {
+    "domain": "startupatwork.org",
+    "status": "No DNS record found",
+    "details": {},
+    "found_on": "2025-04-27T04:08:31.247377",
+    "sources": [
+      {
+        "url": "http://startupatwork.org/video/worst-time-in-my-life/",
+        "text": "\u201cWorst Time In My Life\u201d \u00ab\u00a0Startup At Work",
+        "article_title": "24/7 Media",
+        "article_url": "https://en.wikipedia.org/wiki/24/7_Media"
+      },
+      {
+        "url": "http://startupatwork.org/video/considering-bankruptcy/",
+        "text": "Considering Bankruptcy \u00ab\u00a0Startup At Work",
+        "article_title": "24/7 Media",
+        "article_url": "https://en.wikipedia.org/wiki/24/7_Media"
+      },
+      {
+        "url": "http://startupatwork.org/video/buying-real-media/",
+        "text": "Buying Real Media \u00ab\u00a0Startup At Work",
+        "article_title": "24/7 Media",
+        "article_url": "https://en.wikipedia.org/wiki/24/7_Media"
+      }
+    ]
+  },
+  "dmnuniversity.com": {
+    "domain": "dmnuniversity.com",
+    "status": "No DNS record found",
+    "details": {},
+    "found_on": "2025-04-27T04:09:04.011210",
+    "sources": [
+      {
+        "url": "http://www.dmnuniversity.com/DST/downloads/Mobile-All_9-1.pdf",
+        "text": "the original",
+        "article_title": "4INFO",
+        "article_url": "https://en.wikipedia.org/wiki/4INFO"
+      }
+    ]
+  },
+  "helpforbands.co.uk": {
+    "domain": "helpforbands.co.uk",
+    "status": "Expired",
+    "details": {
+      "expiration_date": "2025-02-09 00:00:00",
+      "registrar": "Tool Domains EOOD t/a Edoms.com [Tag = EDOMS]"
+    },
+    "found_on": "2025-04-27T04:09:59.482169",
+    "sources": [
+      {
+        "url": "http://www.helpforbands.co.uk",
+        "text": "Help For Bands",
+        "article_title": "Horus Music",
+        "article_url": "https://en.wikipedia.org/wiki/Horus_Music"
+      }
+    ]
+  },
+  "120.114.52.240": {
+    "domain": "120.114.52.240",
+    "status": "Potentially available",
+    "details": {
+      "whois": "{\n  \"domain_name\": null,\n  \"registrar\": null,\n  \"registrar_url\": null,\n  \"reseller\": null,\n  \"whois_server\": null,\n  \"referral_url\": null,\n  \"updated_date\": null,\n  \"creation_date\": null,\n  \"expiration_date\": null,\n  \"name_servers\": null,\n  \"status\": [\n    \"ALLOCATED PORTABLE\",\n    \"ASSIGNED NON-PORTABLE\"\n  ],\n  \"emails\": [\n    \"search-apnic-not-arin@apnic.net\",\n    \"'hostmaster@twnic.tw\",\n    \"hostmaster@twnic.tw\",\n    \"noc@mail.moe.gov.tw\",\n    \"abuse@ksu.edu.tw\",\n    \"hostmaster@twnic.net\"\n  ],\n  \"dnssec\": null,\n  \"name\": null,\n  \"org\": null,\n  \"address\": null,\n  \"city\": null,\n  \"state\": null,\n  \"registrant_postal_code\": null,\n  \"country\": null\n}"
+    },
+    "found_on": "2025-04-27T04:10:59.377942",
+    "sources": [
+      {
+        "url": "http://120.114.52.240/~T093000279/repository/fetch/advertisig%20English%20-%20class%20material%201.pdf",
+        "text": "the original",
+        "article_title": "Advertising management",
+        "article_url": "https://en.wikipedia.org/wiki/Advertising_management"
+      }
+    ]
+  },
+  "aucklandchamber.co.nz": {
+    "domain": "aucklandchamber.co.nz",
+    "status": "Potentially available",
+    "details": {
+      "whois": "{\n  \"domain_name\": null,\n  \"registrar\": null,\n  \"updated_date\": null,\n  \"creation_date\": null,\n  \"expiration_date\": null,\n  \"name_servers\": null,\n  \"status\": \"ok https://icann.org/epp#ok\",\n  \"emails\": null,\n  \"name\": null,\n  \"address\": null,\n  \"city\": null,\n  \"registrant_postal_code\": null,\n  \"country\": null\n}"
+    },
+    "found_on": "2025-04-27T04:12:44.847173",
+    "sources": [
+      {
+        "url": "http://www.aucklandchamber.co.nz/media/959746/4-crucial-decisions-before-building-your-website-8-may-2015.pdf",
+        "text": "the original",
+        "article_title": "Insight Online",
+        "article_url": "https://en.wikipedia.org/wiki/Insight_Online"
+      }
+    ]
+  },
+  "business.otago.ac.nz": {
+    "domain": "business.otago.ac.nz",
+    "status": "Potentially available",
+    "details": {
+      "whois": "{\n  \"domain_name\": null,\n  \"registrar\": null,\n  \"updated_date\": null,\n  \"creation_date\": null,\n  \"expiration_date\": null,\n  \"name_servers\": null,\n  \"status\": \"ok https://icann.org/epp#ok\",\n  \"emails\": null,\n  \"name\": null,\n  \"address\": null,\n  \"city\": null,\n  \"registrant_postal_code\": null,\n  \"country\": null\n}"
+    },
+    "found_on": "2025-04-27T04:13:03.705197",
+    "sources": [
+      {
+        "url": "http://www.business.otago.ac.nz/Marketing/Events/OtagoForum/Papers/FourMyths.pdf",
+        "text": "'The Four Service Marketing Myths: Remnants of a Goods-based Manufacturing Model'",
+        "article_title": "Service-dominant logic",
+        "article_url": "https://en.wikipedia.org/wiki/Service-dominant_logic"
+      }
+    ]
+  },
+  "commerce.otago.ac.nz": {
+    "domain": "commerce.otago.ac.nz",
+    "status": "Potentially available",
+    "details": {
+      "whois": "{\n  \"domain_name\": null,\n  \"registrar\": null,\n  \"updated_date\": null,\n  \"creation_date\": null,\n  \"expiration_date\": null,\n  \"name_servers\": null,\n  \"status\": \"ok https://icann.org/epp#ok\",\n  \"emails\": null,\n  \"name\": null,\n  \"address\": null,\n  \"city\": null,\n  \"registrant_postal_code\": null,\n  \"country\": null\n}"
+    },
+    "found_on": "2025-04-27T04:13:16.690036",
+    "sources": [
+      {
+        "url": "http://www.commerce.otago.ac.nz/Marketing/Events/OtagoForum/",
+        "text": "The Otago Forum (2005, 2008, 2011)",
+        "article_title": "Service-dominant logic",
+        "article_url": "https://en.wikipedia.org/wiki/Service-dominant_logic"
+      }
+    ]
+  }
+}
